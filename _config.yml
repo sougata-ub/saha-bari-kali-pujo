@@ -1,0 +1,16 @@
+title: Satya Notes
+description: Short articles and verses pointing to the changeless Absolute amidst changing emotions.
+# Choose any GitHub Pages-supported theme below by changing this line:
+# jekyll-theme-cayman • jekyll-theme-minimal • jekyll-theme-slate • jekyll-theme-midnight
+# jekyll-theme-architect • jekyll-theme-dinky • jekyll-theme-hacker • jekyll-theme-leap-day
+# jekyll-theme-merlot • jekyll-theme-modernist • jekyll-theme-tactile • jekyll-theme-time-machine
+theme: jekyll-theme-cayman
+
+# Optional: social links (uncomment and edit)
+# github_username: your-username
+# twitter_username: your-handle
+
+# Build settings
+markdown: kramdown
+paginate: 10
+logo: /kali_pic_2024.png
