@@ -1,16 +1,16 @@
-# Saha Barir Kali Pujo
-What is Shakti? This question can be answered at five levels of darshan.
+# Maa er dorshon
+## What is Shakti? This question can be answered at five levels of darshan.
 
-Level 1: Shakti as the external goddess
+### Level 1: Shakti as the external goddess
 Shakti, in the form of Maa Kali, Maa Durga, or any other motherly power we worship, and is external to us. This is the devotional or iconic aspect, where Shakti is perceived as a divine being outside oneself - the energy that powers the universe and its beings. Worshipping Shakti in this murti form is the essence of Bhakti yoga, where the devotee and the Divine are two. This experience is full of rasa - it’s sweet, devotional, and emotionally beautiful.
 
-Level 2: Shakti as the power of the goddess
+### Level 2: Shakti as the power of the goddess
 Shakti as Shiva’s ardhangini and His expressive power. She creates, sustains, and destroys. Without Her, even Shiva cannot act. This is the mythic-theological level, where we understand that Shakti and Shiva are two poles of one reality. It reflects Tantric non-duality (Shiva-Shakti tattva): Shiva is pure consciousness (cit), Shakti is the movement of that consciousness (spanda).
 
-Level 3: Shakti as the primordial power
+### Level 3: Shakti as the primordial power
 It is the primordial power that makes things happen. Shakti is the unseen pulse of existence - the power by which the unmanifest becomes manifest. The rising sun, the beating heart, the birth and death of stars - all are Shakti’s rhythms. Even the thought that comes to your mind, the pain and pleasures in life, all our emotions, the force that turns galaxies, whatever we do or think of doing, the entire essence of existence, as the way we perceive, using our minds, is due to shakti. This corresponds to the cosmological or metaphysical level, identifying Shakti as the fundamental energy underlying all phenomena, and aligns with Samkhya philosophy and Advaita Vedanta’s Maya Shakti - the dynamic nature of Nirguna Brahman. This is deep. But still does not capture the entire picture.
 
-Level 4: Shakti as your inner being
+### Level 4: Shakti as your inner being
 Ask yourself, “Who am I?”
 Are you the body? If so, where do you exist inside it? If you scan the brain, will you find ‘you’?
 Are you the mind? Then, when the mind is silent in sleep, where are you?
@@ -34,7 +34,7 @@ Yes, but be careful. Don’t say it with ahamkar (ego), as if we possess the pow
 
 In Tantric terms, this is the awakening of iccha-shakti (will), jnana-shakti (knowledge), and kriya-shakti (action) inside the microcosm. The same cosmic energy that spins galaxies is spinning within your spine as prana. This is the moment when the external worship becomes antar-yoga - inward adoration.
 
-Level 5: Shakti as the Absolute Self
+### Level 5: Shakti as the Absolute Self
 There is yet one thing that remains unanswered. You said, “I am experiencing”. Then ask, who is experiencing this experience? If all experiences are waves of Shakti, then who is the witness of these waves? Aha! Now you have got to the meat of things. 
 
 Close your eyes and watch. Thoughts rise and fall, emotions come and go, even the sense of “I” comes and goes. But something remains unchanged - the silent witness, the Sakshi. That witness is not a thing; it has no form, no boundary, no birth. It is pure awareness - Śiva-tattva itself. At this point, the divide between Shiva and Shakti disappears. Movement and stillness, energy and consciousness, they are not two; they are one seamless Reality. Just like the wave realizes it was never separate from the ocean. It is water that manifests both as the wave and the ocean. Similarly, Shakti and Brahman are not different substances; they are different ways of looking at the same limitless Consciousness. Brahman is not a cosmic “stuff” or a divine “thing.” It is that which cannot be objectified, because It is the very ground of knowing. That’s why the sages say “Neti Neti” - not this, not that - because whatever you point to is already within It.
