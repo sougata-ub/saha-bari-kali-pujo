@@ -15,7 +15,7 @@ Being the first of the ten [Mahavidyas](https://en.wikipedia.org/wiki/Mahavidya)
 Despite this fierce iconography, we love and adore _Her_ in our own ways. For example, my sister, looking at our community's (para) Kali idol (murti), exclaimed, "Maa ke khub cute dekhte lagche" (translation: Maa looks so cute). That's the magic of Kali - terrifying yet tender, destructive yet deeply loving.
 
 _But who really is Maa Kali? What does she signify? **How can we see Her as Thakur Sri Ramakrishna saw Her?**_
-Let's take a journey together — to see Maa as the Mother, as Power, as the Primordial Energy, and as the Self within. Each reveals a different facet of the same truth. Understanding each, we discover that how we see Maa depends on our Bhava — the inner feeling with which we approach Her.
+Let's take a journey together - to see Maa as the Mother, as Power, as the Primordial Energy, and as the Self within. Each reveals a different facet of the same truth. Understanding each, we discover that how we see Maa depends on our Bhava - the inner feeling with which we approach Her.
 
 
 <!-- 4 TILES (OVERVIEW) -->
@@ -86,22 +86,24 @@ The paradox is, you already are experiencing _It_, always. Because, as the [Chan
 
 This is the unchanging truth that death cannot touch. Your body will die, your mind and the sense of "I" will dissolve, but your Swarupa (your true essence) is eternal. It is infinite, unborn, and deathless. As Sri Krishna declares in the [Bhagavad Gita](https://www.holy-bhagavad-gita.org/index/):
 
-> avināśhi tu tadviddhi yena sarvam idaṁ tatam, vināśham avyayasyāsya na kaśhchit kartum arhati ॥
+> ##### avināśhi tu tadviddhi yena sarvam idaṁ tatam, vināśham avyayasyāsya na kaśhchit kartum arhati ॥
 > 
-> antavanta ime dehā nityasyoktāḥ śharīriṇaḥ, anāśhino ’prameyasya tasmād yudhyasva bhārata ॥
+> ##### antavanta ime dehā nityasyoktāḥ śharīriṇaḥ, anāśhino ’prameyasya tasmād yudhyasva bhārata ॥
 > 
-> ya enaṁ vetti hantāraṁ yaśh chainaṁ manyate hatam, ubhau tau na vijānīto nāyaṁ hanti na hanyate ॥
+> ##### ya enaṁ vetti hantāraṁ yaśh chainaṁ manyate hatam, ubhau tau na vijānīto nāyaṁ hanti na hanyate ॥
 > 
-> na jāyate mriyate vā kadāchin, nāyaṁ bhūtvā bhavitā vā na bhūyaḥ, ajo nityaḥ śhāśhvato ’yaṁ purāṇo, na hanyate hanyamāne śharīre ॥ (2.17-2.20)
+> ##### na jāyate mriyate vā kadāchin, nāyaṁ bhūtvā bhavitā vā na bhūyaḥ, ajo nityaḥ śhāśhvato ’yaṁ purāṇo, na hanyate hanyamāne śharīre ॥ (2.17-2.20)
 >
 > _(Meaning: That which pervades the entire body, know it to be indestructible. No one can cause the destruction of the imperishable soul. Only the material body is perishable; the embodied soul within is indestructible, immeasurable, and eternal. Therefore, fight, O descendent of Bharat. Neither of them is in knowledge-the one who thinks the soul can slay and the one who thinks the soul can be slain. For truly, the soul neither kills nor can it be killed. The soul is neither born, nor does it ever die; nor having once existed, does it ever cease to be. The soul is without birth, eternal, immortal, and ageless. It is not destroyed when the body is destroyed.)_
 > 
 >
-> nainaṁ chhindanti śhastrāṇi nainaṁ dahati pāvakaḥ, na chainaṁ kledayantyāpo na śhoṣhayati mārutaḥ ॥ 2.23 _(Meaning: Weapons cannot shred the soul, nor can fire burn it. Water cannot wet it, nor can the wind dry it.)_
+> ##### nainaṁ chhindanti śhastrāṇi nainaṁ dahati pāvakaḥ, na chainaṁ kledayantyāpo na śhoṣhayati mārutaḥ ॥
 >
-> achchhedyo ’yam adāhyo ’yam akledyo ’śhoṣhya eva cha, nityaḥ sarva-gataḥ sthāṇur achalo ’yaṁ sanātanaḥ ॥ 2.24 _(Meaning: The soul is unbreakable and incombustible; it can neither be dampened nor dried. It is everlasting, in all places, unalterable, immutable, and primordial.)_
+> ##### achchhedyo ’yam adāhyo ’yam akledyo ’śhoṣhya eva cha, nityaḥ sarva-gataḥ sthāṇur achalo ’yaṁ sanātanaḥ ॥
 >
-> avyakto ’yam achintyo ’yam avikāryo ’yam uchyate, tasmādevaṁ viditvainaṁ nānuśhochitum arhasi ॥ 2.25 _(Meaning: The soul is spoken of as invisible, inconceivable, and unchangeable. Knowing this, you should not grieve for the body.)_
+> ##### avyakto ’yam achintyo ’yam avikāryo ’yam uchyate, tasmādevaṁ viditvainaṁ nānuśhochitum arhasi ॥ (2.23-2.25)
+>
+> _(Meaning: Weapons cannot shred the soul, nor can fire burn it. Water cannot wet it, nor can the wind dry it. The soul is unbreakable and incombustible; it can neither be dampened nor dried. It is everlasting, in all places, unalterable, immutable, and primordial. The soul is spoken of as invisible, inconceivable, and unchangeable. Knowing this, you should not grieve for the body.)_
 
 
 So yes - **you are Shakti**, but not in the egoic sense of possessing power.
