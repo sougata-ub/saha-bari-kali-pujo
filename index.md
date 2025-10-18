@@ -2,6 +2,21 @@
 layout: default
 title: Who is Maa Kali?
 ---
+<!--  WELCOME NOTE -->
+<section class="welcome-note" style="margin-bottom:2rem;">
+  <h2>Welcome to <span style="color:#8b0000;">Saha Bari's Kali Puja</span> Website</h2>
+  <p>
+    Click on the links below to listen to the songs containing the lines near the <em>mondop</em> and the <em>book stall</em>em>.
+    This year, our prayer has been simple - that <strong>Maa</strong> may enter our lives and show us the
+    path to enlightenment. To guide us toward living each moment fully immersed in Her presence.
+  </p>
+  <p>
+    Below, we have composed a short article - a heartfelt reflection on Maa Kali and Her many forms.
+    Do give it a read, and may you find <strong>Maa</strong> in the form your heart desires.
+  </p>
+  <p style="font-weight:600; margin-top:1rem; color:#8b0000;">Joy Maa!</p>
+</section>
+
 <!-- 🎥 VIDEO ICON TILES -->
 <section class="video-tiles">
   <a class="video-tile" href="https://www.youtube.com/watch?v=sADh9yMDIHE&list=RDsADh9yMDIHE&index=1" target="_blank" rel="noopener">
