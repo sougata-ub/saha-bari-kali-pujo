@@ -2,6 +2,48 @@
 layout: default
 title: Who is Maa Kali?
 ---
+<!-- INTRO LINKS TO VIDEOS -->
+<div class="video-links">
+  <a href="https://www.youtube.com/watch?v=sADh9yMDIHE&list=RDsADh9yMDIHE&index=1" target="_blank">
+    Esheche Notun Manush Dekhbi Jodi Aye Chole
+  </a>
+  <a href="https://www.youtube.com/watch?v=v_NX7qdX-0U&list=RDv_NX7qdX-0U&start_radio=1" target="_blank">
+    Ramakrishna Namer Jowar Elo
+  </a>
+  <a href="https://www.youtube.com/watch?v=zzzzzzz" target="_blank">
+    A short reflection on Shakti — the creative pulse of consciousness.
+  </a>
+  <a href="https://www.youtube.com/watch?v=wwwwwww" target="_blank">
+    Listen to a meditative Kali stotram — feel Her presence within.
+  </a>
+</div>
+
+<style>
+.video-links {
+  display:grid;
+  gap:10px;
+  margin: 1.5rem 0 2rem;
+}
+.video-links a {
+  display:block;
+  text-decoration:none;
+  padding:12px 16px;
+  border:1px solid #e5e5e5;
+  border-radius:10px;
+  background:#fafafa;
+  color:#333;
+  transition:all .15s ease;
+}
+.video-links a:hover {
+  background:#f2f2f2;
+  border-color:#dcdcdc;
+  transform:translateY(-2px);
+}
+@media (prefers-color-scheme: dark){
+  .video-links a{ background:#181818; border-color:#333; color:#ddd; }
+  .video-links a:hover{ background:#202020; }
+}
+</style>
 
 <!-- HERO IMAGE -->
 <p align="center">
