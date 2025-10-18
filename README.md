@@ -12,7 +12,7 @@ At this level, Shakti appears in the form of Maa Kali, Maa Durga, Maa Saraswati,
 ### Aspect 2: Kali as Shakti - The Power of Shiva
 At a deeper level, Maa Kali is not merely someone outside who blesses us; she is the very Power of the Absolute (Shiva). She is Shiva's ardhangini - his other half, his pulse. Without Her, Shiva is _sava_ - motionless, pure stillness without expression. She is his expressive power, the one who makes consciousness move. As mentioned in the 6th mantra of the [Devi Sukta](https://en.wikipedia.org/wiki/Dev%C4%ABs%C5%ABkta) ([Ṛgveda: X.125](https://en.wikipedia.org/wiki/Rigveda)):
 
-> ahaṃ rudrāya dhanurā tanomi brahmadviṣe śarave hantavā u | ahaṃ janāya samadaṃ kṛṇomy-ahaṃ dyāvā-pṛthivī āviveśa ॥ 6
+> ahaṃ rudrāya dhanurā tanomi brahmadviṣe śarave hantavā u, ahaṃ janāya samadaṃ kṛṇomy-ahaṃ dyāvā-pṛthivī āviveśa ॥ 6
 >
 >_(Meaning: I bend the bow for Rudra to slay the demonic enemies of the noble. I battle the enemies of my devotees. Indeed, I pervade heaven and earth.)_
 
@@ -20,11 +20,11 @@ This is [Tantric](https://en.wikipedia.org/wiki/Tantra) [non-duality philosophy]
 
 ### Aspect 3: Kali as the Primordial Power that Flows through Us
 At this level, Kali is no longer just an external goddess or even the power of Shiva. She is the primordial pulse that keeps the universe alive. Shakti is the unseen rhythm of existence, the force by which the unmanifest becomes manifest. The rising sun, the beating of your heart, the birth and death of stars - all dance to Her rhythm. The same energy that spins galaxies also hums within your spine as [Prana](https://en.wikipedia.org/wiki/Prana). Every thought that flashes across your mind, every surge of emotion, every act of creation or destruction - all are movements of Shakti. She is the power that makes perception possible, the background vibration that turns pure consciousness into experience. When you feel inspired, when you love deeply, when you suffer and still rise again - that's Her too. Shakti is not "out there"; She's the current that flows through everything that is. According to [Samkhya Philosophy](https://en.wikipedia.org/wiki/Samkhya), She is Mūla-Prakṛti, the first cause. In [Advaita Vedanta](https://en.wikipedia.org/wiki/Advaita_Vedanta), She is [Maya-Shakti](https://en.wikipedia.org/wiki/Maya_(religion)#Hinduism), the dynamic nature of [Nirguna Brahman](https://www.bbc.co.uk/bitesize/guides/zrf6pbk/revision/2) - pure stillness appearing as motion. Kali is that very motion - timeless energy taking form as time itself. As mentioned in the 4th and 8th mantras of the Devi Sukta (Ṛgveda: X.125):
-> mayā so annam-atti yo vipaśyati yaḥ prāṇiti ya īṃ śṛṇotyuktam | amantavo māṃ ta upa kṣiyanti śrudhi-śruta śraddhivaṃ te vadāmi ॥ 4
+> mayā so annam-atti yo vipaśyati yaḥ prāṇiti ya īṃ śṛṇotyuktam, amantavo māṃ ta upa kṣiyanti śrudhi-śruta śraddhivaṃ te vadāmi ॥ 4
 >
 >_(Meaning: He who eats food, sees, breathes, and hears that is spoken, does so through me. Those who are ignorant of me perish. You, who have ears, listen — I tell you that which is deserving of Śraddhā.)_
 
-> aham-eva vāta-iva pra vāmy-ārabhamāṇā bhuvanāni viśvā | paro divā para enā pṛthivyaitāvatī mahinā saṃ babhūva ॥ 8
+> aham-eva vāta-iva pra vāmy-ārabhamāṇā bhuvanāni viśvā, paro divā para enā pṛthivyaitāvatī mahinā saṃ babhūva ॥ 8
 >
 > _(Meaning: Like the wind that blows, I set in motion all the created things. I am beyond the sky and the earth and I have become all this, in my own splendour.)_
 
@@ -43,19 +43,19 @@ You might dejectedly wonder, "Then can I never experience Brahman?" The paradox 
 
 This is the unchanging truth that death cannot touch. Your body will die, your mind and the sense of "I" will dissolve, but your Swarupa (your true essence) is eternal. It is infinite, unborn, and deathless. As Sri Krishna declares in the [Bhagavad Gita](https://www.holy-bhagavad-gita.org/index/):
 
-> avināśhi tu tadviddhi yena sarvam idaṁ tatam | vināśham avyayasyāsya na kaśhchit kartum arhati ॥ 2.17 _(Meaning: That which pervades the entire body, know it to be indestructible. No one can cause the destruction of the imperishable soul)_
+> avināśhi tu tadviddhi yena sarvam idaṁ tatam, vināśham avyayasyāsya na kaśhchit kartum arhati ॥ 2.17 _(Meaning: That which pervades the entire body, know it to be indestructible. No one can cause the destruction of the imperishable soul)_
 >
-> antavanta ime dehā nityasyoktāḥ śharīriṇaḥ | anāśhino ’prameyasya tasmād yudhyasva bhārata ॥ 2.18 _(Meaning: Only the material body is perishable; the embodied soul within is indestructible, immeasurable, and eternal. Therefore, fight, O descendent of Bharat.)_
+> antavanta ime dehā nityasyoktāḥ śharīriṇaḥ, anāśhino ’prameyasya tasmād yudhyasva bhārata ॥ 2.18 _(Meaning: Only the material body is perishable; the embodied soul within is indestructible, immeasurable, and eternal. Therefore, fight, O descendent of Bharat.)_
 >
-> ya enaṁ vetti hantāraṁ yaśh chainaṁ manyate hatam | ubhau tau na vijānīto nāyaṁ hanti na hanyate ॥ 2.19 _(Meaning: Neither of them is in knowledge-the one who thinks the soul can slay and the one who thinks the soul can be slain. For truly, the soul neither kills nor can it be killed.)_
+> ya enaṁ vetti hantāraṁ yaśh chainaṁ manyate hatam, ubhau tau na vijānīto nāyaṁ hanti na hanyate ॥ 2.19 _(Meaning: Neither of them is in knowledge-the one who thinks the soul can slay and the one who thinks the soul can be slain. For truly, the soul neither kills nor can it be killed.)_
 >
-> na jāyate mriyate vā kadāchin | nāyaṁ bhūtvā bhavitā vā na bhūyaḥ | ajo nityaḥ śhāśhvato ’yaṁ purāṇo | na hanyate hanyamāne śharīre ॥ 2.20 _(Meaning: The soul is neither born, nor does it ever die; nor having once existed, does it ever cease to be. The soul is without birth, eternal, immortal, and ageless. It is not destroyed when the body is destroyed.)_
+> na jāyate mriyate vā kadāchin, nāyaṁ bhūtvā bhavitā vā na bhūyaḥ, ajo nityaḥ śhāśhvato ’yaṁ purāṇo, na hanyate hanyamāne śharīre ॥ 2.20 _(Meaning: The soul is neither born, nor does it ever die; nor having once existed, does it ever cease to be. The soul is without birth, eternal, immortal, and ageless. It is not destroyed when the body is destroyed.)_
 >
-> nainaṁ chhindanti śhastrāṇi nainaṁ dahati pāvakaḥ | na chainaṁ kledayantyāpo na śhoṣhayati mārutaḥ ॥ 2.23 _(Meaning: Weapons cannot shred the soul, nor can fire burn it. Water cannot wet it, nor can the wind dry it.)_
+> nainaṁ chhindanti śhastrāṇi nainaṁ dahati pāvakaḥ, na chainaṁ kledayantyāpo na śhoṣhayati mārutaḥ ॥ 2.23 _(Meaning: Weapons cannot shred the soul, nor can fire burn it. Water cannot wet it, nor can the wind dry it.)_
 >
-> achchhedyo ’yam adāhyo ’yam akledyo ’śhoṣhya eva cha | nityaḥ sarva-gataḥ sthāṇur achalo ’yaṁ sanātanaḥ ॥ 2.24 _(Meaning: The soul is unbreakable and incombustible; it can neither be dampened nor dried. It is everlasting, in all places, unalterable, immutable, and primordial.)_
+> achchhedyo ’yam adāhyo ’yam akledyo ’śhoṣhya eva cha, nityaḥ sarva-gataḥ sthāṇur achalo ’yaṁ sanātanaḥ ॥ 2.24 _(Meaning: The soul is unbreakable and incombustible; it can neither be dampened nor dried. It is everlasting, in all places, unalterable, immutable, and primordial.)_
 >
-> avyakto ’yam achintyo ’yam avikāryo ’yam uchyate | tasmādevaṁ viditvainaṁ nānuśhochitum arhasi ॥ 2.25 _(Meaning: The soul is spoken of as invisible, inconceivable, and unchangeable. Knowing this, you should not grieve for the body.)_
+> avyakto ’yam achintyo ’yam avikāryo ’yam uchyate, tasmādevaṁ viditvainaṁ nānuśhochitum arhasi ॥ 2.25 _(Meaning: The soul is spoken of as invisible, inconceivable, and unchangeable. Knowing this, you should not grieve for the body.)_
 
 
 So yes - **you are Shakti**, but not in the egoic sense of possessing power.
