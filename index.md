@@ -64,7 +64,9 @@ This is [Tantric](https://en.wikipedia.org/wiki/Tantra) [non-duality philosophy]
 At this level, Kali is no longer just an external goddess or even the power of Shiva. _She_ is the primordial pulse that keeps the universe alive. Shakti is the unseen rhythm of existence, the force by which the unmanifest becomes manifest. The rising sun, the beating of your heart, the birth and death of stars - all dance to _Her_ rhythm. The same energy that spins galaxies also hums within your spine as [Prana](https://en.wikipedia.org/wiki/Prana). Every thought that flashes across your mind, every surge of emotion, every act of creation or destruction - all are movements of Shakti. _She_ is the power that makes perception possible, the background vibration that turns pure consciousness into experience. When you feel inspired, when you love deeply, when you suffer and still rise again - that's _Her_ too. Shakti is not "out there"; _She_ is the current that flows through everything that is. According to [Samkhya Philosophy](https://en.wikipedia.org/wiki/Samkhya), _She_ is Mūla-Prakṛti, the first cause. In [Advaita Vedanta](https://en.wikipedia.org/wiki/Advaita_Vedanta), _She_ is [Maya-Shakti](https://en.wikipedia.org/wiki/Maya_(religion)#Hinduism), the dynamic nature of [Nirguna Brahman](https://www.bbc.co.uk/bitesize/guides/zrf6pbk/revision/2) - pure stillness appearing as motion. Kali is that very motion - timeless energy taking form as time itself. As mentioned in the 4th and 8th mantras of the Devi Sukta (Ṛgveda: X.125):
 > mayā so annam-atti yo vipaśyati yaḥ prāṇiti ya īṃ śṛṇotyuktam, amantavo māṃ ta upa kṣiyanti śrudhi-śruta śraddhivaṃ te vadāmi ॥ 4 _(Meaning: He who eats food, sees, breathes, and hears that is spoken, does so through me. Those who are ignorant of me perish. You, who have ears, listen — I tell you that which is deserving of Śraddhā.)_
 
-> aham-eva vāta-iva pra vāmy-ārabhamāṇā bhuvanāni viśvā, paro divā para enā pṛthivyaitāvatī mahinā saṃ babhūva ॥ 8 _(Meaning: Like the wind that blows, I set in motion all the created things. I am beyond the sky and the earth and I have become all this, in my own splendour.)_
+> aham-eva vāta-iva pra vāmy-ārabhamāṇā bhuvanāni viśvā, paro divā para enā pṛthivyaitāvatī mahinā saṃ babhūva ॥ 8
+>
+> _(Meaning: Like the wind that blows, I set in motion all the created things. I am beyond the sky and the earth and I have become all this, in my own splendour.)_
 
 
 ### Bhava 4: Kali as Your Inner Being {#aspect-4}
@@ -85,13 +87,13 @@ The paradox is, you already are experiencing _It_, always. Because, as the [Chan
 
 This is the unchanging truth that death cannot touch. Your body will die, your mind and the sense of "I" will dissolve, but your Swarupa (your true essence) is eternal. It is infinite, unborn, and deathless. As Sri Krishna declares in the [Bhagavad Gita](https://www.holy-bhagavad-gita.org/index/):
 
-> avināśhi tu tadviddhi yena sarvam idaṁ tatam, vināśham avyayasyāsya na kaśhchit kartum arhati ॥ 2.17 _(Meaning: That which pervades the entire body, know it to be indestructible. No one can cause the destruction of the imperishable soul)_
+> avināśhi tu tadviddhi yena sarvam idaṁ tatam, vināśham avyayasyāsya na kaśhchit kartum arhati ॥
+> antavanta ime dehā nityasyoktāḥ śharīriṇaḥ, anāśhino ’prameyasya tasmād yudhyasva bhārata ॥
+> ya enaṁ vetti hantāraṁ yaśh chainaṁ manyate hatam, ubhau tau na vijānīto nāyaṁ hanti na hanyate ॥
+> na jāyate mriyate vā kadāchin, nāyaṁ bhūtvā bhavitā vā na bhūyaḥ, ajo nityaḥ śhāśhvato ’yaṁ purāṇo, na hanyate hanyamāne śharīre ॥ (2.17-2.20)
 >
-> antavanta ime dehā nityasyoktāḥ śharīriṇaḥ, anāśhino ’prameyasya tasmād yudhyasva bhārata ॥ 2.18 _(Meaning: Only the material body is perishable; the embodied soul within is indestructible, immeasurable, and eternal. Therefore, fight, O descendent of Bharat.)_
->
-> ya enaṁ vetti hantāraṁ yaśh chainaṁ manyate hatam, ubhau tau na vijānīto nāyaṁ hanti na hanyate ॥ 2.19 _(Meaning: Neither of them is in knowledge-the one who thinks the soul can slay and the one who thinks the soul can be slain. For truly, the soul neither kills nor can it be killed.)_
->
-> na jāyate mriyate vā kadāchin, nāyaṁ bhūtvā bhavitā vā na bhūyaḥ, ajo nityaḥ śhāśhvato ’yaṁ purāṇo, na hanyate hanyamāne śharīre ॥ 2.20 _(Meaning: The soul is neither born, nor does it ever die; nor having once existed, does it ever cease to be. The soul is without birth, eternal, immortal, and ageless. It is not destroyed when the body is destroyed.)_
+> _(Meaning: That which pervades the entire body, know it to be indestructible. No one can cause the destruction of the imperishable soul. Only the material body is perishable; the embodied soul within is indestructible, immeasurable, and eternal. Therefore, fight, O descendent of Bharat. Neither of them is in knowledge-the one who thinks the soul can slay and the one who thinks the soul can be slain. For truly, the soul neither kills nor can it be killed. The soul is neither born, nor does it ever die; nor having once existed, does it ever cease to be. The soul is without birth, eternal, immortal, and ageless. It is not destroyed when the body is destroyed.)_
+> 
 >
 > nainaṁ chhindanti śhastrāṇi nainaṁ dahati pāvakaḥ, na chainaṁ kledayantyāpo na śhoṣhayati mārutaḥ ॥ 2.23 _(Meaning: Weapons cannot shred the soul, nor can fire burn it. Water cannot wet it, nor can the wind dry it.)_
 >
