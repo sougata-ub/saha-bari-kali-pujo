@@ -2,48 +2,77 @@
 layout: default
 title: Who is Maa Kali?
 ---
-<!-- INTRO LINKS TO VIDEOS -->
-<div class="video-links">
-  <a href="https://www.youtube.com/watch?v=sADh9yMDIHE&list=RDsADh9yMDIHE&index=1" target="_blank">
-    Esheche Notun Manush Dekhbi Jodi Aye Chole
+<!-- 🎥 VIDEO ICON TILES -->
+<section class="video-tiles">
+  <a class="video-tile" href="https://www.youtube.com/watch?v=sADh9yMDIHE&list=RDsADh9yMDIHE&index=1" target="_blank" rel="noopener">
+    <div class="icon">🎧</div>
+    <div class="caption">
+      <strong>Esheche Notun Manush Dekhbi Jodi Aye Chole</strong>
+      <p>‘Aqua’, ‘Water’, ‘পানি’, ‘বারি’ নাম দেয় জলে।‘আল্লা’, ‘God’, ‘ঈশা’, ‘মুশা’, ‘কালী’ নাম ভেদে বলে।।</p>
+      <p>নাস্তিক অজ্ঞানী নরে সরল কথায় শিখালে, যেই কালী সেই কৃষ্ণ, নাম ভেদ এক মূলে।।</p>
+    </div>
   </a>
-  <a href="https://www.youtube.com/watch?v=v_NX7qdX-0U&list=RDv_NX7qdX-0U&start_radio=1" target="_blank">
-    Ramakrishna Namer Jowar Elo
+
+  <a class="video-tile" href="https://www.youtube.com/watch?v=v_NX7qdX-0U&list=RDv_NX7qdX-0U&start_radio=1" target="_blank" rel="noopener">
+    <div class="icon">🎧</div>
+    <div class="caption">
+      <strong>Ramakrishna Namer Jowar Elo</strong>
+      <p>তুমি ভয় পেয়ো না মাঝ-দরিয়ায় যদি ঝড় ওঠে।</p>
+      <p>যদি ইন্দ্রিয় আর রিপুদল বিষয় পানে ছোটে।</p>
+      <p>নামের হালটি ধরে শক্ত করে বেয়ে যাও তরী।</p>
+      <p>শেষে ভবের পারে নিয়ে যাবে রামকৃষ্ণ কাণ্ডারী॥</p>
+    </div>
   </a>
-  <a href="https://www.youtube.com/watch?v=zzzzzzz" target="_blank">
-    A short reflection on Shakti — the creative pulse of consciousness.
-  </a>
-  <a href="https://www.youtube.com/watch?v=wwwwwww" target="_blank">
-    Listen to a meditative Kali stotram — feel Her presence within.
-  </a>
-</div>
+</section>
 
 <style>
-.video-links {
+.video-tiles{
   display:grid;
-  gap:10px;
-  margin: 1.5rem 0 2rem;
+  gap:16px;
+  grid-template-columns:repeat(4,1fr);
+  margin:1.5rem 0 2rem;
 }
-.video-links a {
-  display:block;
+@media(max-width:960px){ .video-tiles{ grid-template-columns:repeat(2,1fr); } }
+@media(max-width:520px){ .video-tiles{ grid-template-columns:1fr; } }
+
+.video-tile{
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content:center;
   text-decoration:none;
-  padding:12px 16px;
-  border:1px solid #e5e5e5;
-  border-radius:10px;
   background:#fafafa;
-  color:#333;
-  transition:all .15s ease;
+  border:1px solid #e5e5e5;
+  border-radius:14px;
+  padding:18px 10px;
+  transition:transform .15s ease, box-shadow .15s ease, border-color .15s ease;
 }
-.video-links a:hover {
-  background:#f2f2f2;
-  border-color:#dcdcdc;
+.video-tile:hover{
   transform:translateY(-2px);
+  border-color:#d0d0d0;
+  box-shadow:0 6px 20px rgba(0,0,0,.07);
 }
-@media (prefers-color-scheme: dark){
-  .video-links a{ background:#181818; border-color:#333; color:#ddd; }
-  .video-links a:hover{ background:#202020; }
+.video-tile .icon{
+  font-size:2.2rem;
+  line-height:1;
+  margin-bottom:.4rem;
+}
+.video-tile .caption{
+  text-align:center;
+  color:#333;
+}
+.video-tile .caption p{
+  margin:4px 0 0;
+  font-size:.9rem;
+  color:#666;
+}
+@media(prefers-color-scheme:dark){
+  .video-tile{ background:#181818; border-color:#333; color:#ddd; }
+  .video-tile .caption p{ color:#aaa; }
+  .video-tile:hover{ background:#202020; }
 }
 </style>
+
 
 <!-- HERO IMAGE -->
 <p align="center">
