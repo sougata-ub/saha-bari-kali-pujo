@@ -1,10 +1,10 @@
-title: Saha Bari Kali Pujo
+title: Saha Barir Kali Pujo
 description: Capturing moments from the pujo.
 # Choose any GitHub Pages-supported theme below by changing this line:
 # jekyll-theme-cayman • jekyll-theme-minimal • jekyll-theme-slate • jekyll-theme-midnight
 # jekyll-theme-architect • jekyll-theme-dinky • jekyll-theme-hacker • jekyll-theme-leap-day
 # jekyll-theme-merlot • jekyll-theme-modernist • jekyll-theme-tactile • jekyll-theme-time-machine
-theme: jekyll-theme-so-simple #jekyll-theme-minimal
+theme: jekyll-theme-cayman #jekyll-theme-minimal
 
 # Optional: social links (uncomment and edit)
 # github_username: your-username
