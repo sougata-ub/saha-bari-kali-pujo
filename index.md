@@ -29,11 +29,12 @@ title: Who is Maa Kali?
 .video-tiles{
   display:grid;
   gap:16px;
-  grid-template-columns:repeat(4,1fr);
+  grid-template-columns:repeat(2,1fr);
   margin:1.5rem 0 2rem;
 }
-@media(max-width:960px){ .video-tiles{ grid-template-columns:repeat(2,1fr); } }
-@media(max-width:520px){ .video-tiles{ grid-template-columns:1fr; } }
+@media(max-width:600px){
+  .video-tiles{ grid-template-columns:1fr; }
+}
 
 .video-tile{
   display:flex;
@@ -44,7 +45,7 @@ title: Who is Maa Kali?
   background:#fafafa;
   border:1px solid #e5e5e5;
   border-radius:14px;
-  padding:18px 10px;
+  padding:22px 12px;
   transition:transform .15s ease, box-shadow .15s ease, border-color .15s ease;
 }
 .video-tile:hover{
@@ -53,9 +54,9 @@ title: Who is Maa Kali?
   box-shadow:0 6px 20px rgba(0,0,0,.07);
 }
 .video-tile .icon{
-  font-size:2.2rem;
+  font-size:2.6rem;
   line-height:1;
-  margin-bottom:.4rem;
+  margin-bottom:.5rem;
 }
 .video-tile .caption{
   text-align:center;
