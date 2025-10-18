@@ -6,7 +6,7 @@ title: Who is Maa Kali?
 <section class="welcome-note" style="margin-bottom:2rem;">
   <h2>Welcome to <span style="color:#8b0000;">Saha Bari's Kali Puja</span> Website</h2>
   <p>
-    Click on the links below to listen to the songs containing the lines near the <em>mondop</em> and the <em>book stall</em>em>.
+    Click on the links below to listen to the songs containing the lines near the <em>mondop</em> and the <em>book stall</em>.
     This year, our prayer has been simple - that <strong>Maa</strong> may enter our lives and show us the
     path to enlightenment. To guide us toward living each moment fully immersed in Her presence.
   </p>
