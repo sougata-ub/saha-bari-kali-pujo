@@ -4,7 +4,7 @@ description: Capturing moments from the pujo.
 # jekyll-theme-cayman • jekyll-theme-minimal • jekyll-theme-slate • jekyll-theme-midnight
 # jekyll-theme-architect • jekyll-theme-dinky • jekyll-theme-hacker • jekyll-theme-leap-day
 # jekyll-theme-merlot • jekyll-theme-modernist • jekyll-theme-tactile • jekyll-theme-time-machine
-theme: jekyll-theme-cayman #jekyll-theme-minimal
+theme: jekyll-theme-slate #jekyll-theme-minimal
 
 # Optional: social links (uncomment and edit)
 # github_username: your-username
