@@ -1,16 +1,35 @@
-# Maa er dorshon
-## What is Shakti? This question can be answered at five levels of darshan.
+# Darshon e Maa er dorshon
+Being the first of the ten [Mahavidyas](https://en.wikipedia.org/wiki/Mahavidya), [Maa Kali](https://en.wikipedia.org/wiki/Kali) is the epitome of [Shakti](https://en.wikipedia.org/wiki/Shakti). Her iconography depicts her as "ugra" (fierce) - Dark as the darkest [Kartik Amavasya](https://en.wikipedia.org/wiki/Amavasya) night sky, with three wide-open eyes that see past time, long tangled hair, a lolling crimson tongue, and wearing a garland of countless skulls symbolizing the passing of time - numerous births asnd deaths (Kala). She stands on [Lord Shiva](https://en.wikipedia.org/wiki/Shiva), in the cremation ground (samshan). In her left hands, she holds a severed head and a kharga (scimitar), symbols of the destruction of [Ahamkara](https://en.wikipedia.org/wiki/Ahamkara) (the ego or the “I” consciousness) and [Avidya](https://en.wikipedia.org/wiki/Avidy%C4%81_(Hinduism)) (ignorance). In her right, she blesses and grants boons through the [Abhaya](https://en.wikipedia.org/wiki/Abhayamudra) and [Varada mudra](https://en.wikipedia.org/wiki/Varadamudra).
+Despite this fierce iconography, we love and adore her in our own ways. For example, my sister, looking at our community’s (para) Kali idol (murti), exclaimed, "Maa ke khub cute dekhte lagche" (translation: Maa looks so cute). That's the magic of Kali - terrifying yet tender, destructive yet deeply loving.
 
-### Level 1: Shakti as the external goddess
-Shakti, in the form of Maa Kali, Maa Durga, or any other motherly power we worship, and is external to us. This is the devotional or iconic aspect, where Shakti is perceived as a divine being outside oneself - the energy that powers the universe and its beings. Worshipping Shakti in this murti form is the essence of Bhakti yoga, where the devotee and the Divine are two. This experience is full of rasa - it’s sweet, devotional, and emotionally beautiful.
+#### But who really is Maa Kali? What does she signify? 
+To answer that, let's look at a few aspects, each revealing a different truth, depending on what resonates within us.
 
-### Level 2: Shakti as the power of the goddess
-Shakti as Shiva’s ardhangini and His expressive power. She creates, sustains, and destroys. Without Her, even Shiva cannot act. This is the mythic-theological level, where we understand that Shakti and Shiva are two poles of one reality. It reflects Tantric non-duality (Shiva-Shakti tattva): Shiva is pure consciousness (cit), Shakti is the movement of that consciousness (spanda).
+### Aspect 1: Kali as the Divine Mother
+At this level, Shakti appears in the form of Maa Kali, Maa Durga, Maa Saraswati, or any motherly power we worship. She is external to us, our divine protector, our guide, our nurturer. We call out to her as we would to our earthly mother. Sometimes in love, sometimes in fear, but always in faith. She destroys evil and removes obstacles, yet her destruction is compassionate, which clears the path for light to enter. She blesses those who walk the path of [Dharma](https://en.wikipedia.org/wiki/Dharma), and gently corrects those who stray. Understanding her in this way is [Bhakti Yoga](https://en.wikipedia.org/wiki/Bhakti_yoga), the path of devotion. Here, the devotee and the Divine are two separate beings bound by love. It's a relationship of sweetness, surrender, and emotion - a [_Rasa_](https://en.wikipedia.org/wiki/Rasa_(theology)) (flavour) that fills the heart with bliss.
 
-### Level 3: Shakti as the primordial power
-It is the primordial power that makes things happen. Shakti is the unseen pulse of existence - the power by which the unmanifest becomes manifest. The rising sun, the beating heart, the birth and death of stars - all are Shakti’s rhythms. Even the thought that comes to your mind, the pain and pleasures in life, all our emotions, the force that turns galaxies, whatever we do or think of doing, the entire essence of existence, as the way we perceive, using our minds, is due to shakti. This corresponds to the cosmological or metaphysical level, identifying Shakti as the fundamental energy underlying all phenomena, and aligns with Samkhya philosophy and Advaita Vedanta’s Maya Shakti - the dynamic nature of Nirguna Brahman. This is deep. But still does not capture the entire picture.
 
-### Level 4: Shakti as your inner being
+### Aspect 2: Kali as Shakti - The Power of Shiva
+At a deeper level, Maa Kali is not merely someone outside who blesses us; she is the very Power of the Absolute (Shiva). She is Shiva's ardhangini - his other half, his pulse. Without Her, Shiva is _sava_ - motionless, pure stillness without expression. She is his expressive power, the one who makes consciousness move. As mentioned in the 6th mantra of the [Devi Sukta](https://en.wikipedia.org/wiki/Dev%C4%ABs%C5%ABkta) ([Ṛgveda: X.125](https://en.wikipedia.org/wiki/Rigveda)):
+
+> ahaṃ rudrāya dhanurā tanomi brahmadviṣe śarave hantavā u | ahaṃ janāya samadaṃ kṛṇomy-ahaṃ dyāvā-pṛthivī āviveśa ॥ 6
+>
+>_(Meaning: I bend the bow for Rudra to slay the demonic enemies of the noble. I battle the enemies of my devotees. Indeed, I pervade heaven and earth.)_
+
+This is [Tantric](https://en.wikipedia.org/wiki/Tantra) [non-duality philosophy](https://en.wikipedia.org/wiki/Nondualism) (Shiva-Shakti tattva philosophy), where Shiva is pure, unchanging consciousness (Cit), and Shakti is the vibration, the movement (Spanda) of that consciousness. Together they form existence itself - the stillness and the dance. When Maa Kali dances, the universe comes alive; when she stops, everything returns to stillness. Every breath, every heartbeat, every flash of thought is her movement within the vast silence of Shiva. In the Kali Tantra and Sakta texts, this union is described as a constant embrace, where Shiva, lying below, symbolizes the silent foundation of awareness, while Kali, standing upon him, symbolizes energy rising and playing upon that awareness. When we recognize this, the image of Kali standing on Shiva is no longer "violent" but profoundly symbolic: consciousness and energy - two names for one Reality, forever entwined.
+
+### Aspect 3: Kali as the Primordial Power that Flows through Us
+At this level, Kali is no longer just an external goddess or even the power of Shiva. She is the primordial pulse that keeps the universe alive. Shakti is the unseen rhythm of existence, the force by which the unmanifest becomes manifest. The rising sun, the beating of your heart, the birth and death of stars - all dance to Her rhythm. The same energy that spins galaxies also hums within your spine as [Prana](https://en.wikipedia.org/wiki/Prana). Every thought that flashes across your mind, every surge of emotion, every act of creation or destruction - all are movements of Shakti. She is the power that makes perception possible, the background vibration that turns pure consciousness into experience. When you feel inspired, when you love deeply, when you suffer and still rise again - that's Her too. Shakti is not "out there"; She's the current that flows through everything that is. According to [Samkhya Philosophy](https://en.wikipedia.org/wiki/Samkhya), She is Mūla-Prakṛti, the first cause. In [Advaita Vedanta](https://en.wikipedia.org/wiki/Advaita_Vedanta), She is [Maya-Shakti](https://en.wikipedia.org/wiki/Maya_(religion)#Hinduism), the dynamic nature of [Nirguna Brahman](https://www.bbc.co.uk/bitesize/guides/zrf6pbk/revision/2) - pure stillness appearing as motion. Kali is that very motion - timeless energy taking form as time itself. As mentioned in the 4th and 8th mantras of the Devi Sukta (Ṛgveda: X.125):
+> mayā so annam-atti yo vipaśyati yaḥ prāṇiti ya īṃ śṛṇotyuktam | amantavo māṃ ta upa kṣiyanti śrudhi-śruta śraddhivaṃ te vadāmi ॥ 4
+>
+>_(Meaning: He who eats food, sees, breathes, and hears that is spoken, does so through me. Those who are ignorant of me perish. You, who have ears, listen — I tell you that which is deserving of Śraddhā.)_
+
+> aham-eva vāta-iva pra vāmy-ārabhamāṇā bhuvanāni viśvā | paro divā para enā pṛthivyaitāvatī mahinā saṃ babhūva ॥ 8
+>
+> _(Meaning: Like the wind that blows, I set in motion all the created things. I am beyond the sky and the earth and I have become all this, in my own splendour.)_
+
+
+### Aspect 4: Kali as Your Inner Being
 Ask yourself, “Who am I?”
 Are you the body? If so, where do you exist inside it? If you scan the brain, will you find ‘you’?
 Are you the mind? Then, when the mind is silent in sleep, where are you?
