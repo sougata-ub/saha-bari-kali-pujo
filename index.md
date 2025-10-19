@@ -219,7 +219,7 @@ Let’s take a journey together - to see Maa as the Mother, as Power, as the Pri
   </a>
 </div>
 
-
+<hr />
 
 ### Bhava 1: Kali as the Divine Mother {#aspect-1}
 At this level, Shakti appears in the form of Maa Kali, Maa Durga, Maa Saraswati, or any motherly power we worship. _She_ is external to us - our divine protector, our guide, our nurturer. We call out to _Her_ as we would to our earthly mother: sometimes in love, sometimes in fear, always in faith. _She_ destroys evil and removes obstacles, yet Her destruction is compassionate - it clears the path for light to enter. _She_ blesses those who walk the path of [Dharma](https://en.wikipedia.org/wiki/Dharma), and gently corrects those who stray. Understanding _Her_ in this way is [Bhakti Yoga](https://en.wikipedia.org/wiki/Bhakti_yoga) - the path of devotion. Here, the devotee and the Divine are two beings bound by love: a relationship of sweetness, surrender, and emotion - a [_rasa_](https://en.wikipedia.org/wiki/Rasa_(theology)) that fills the heart with bliss.
