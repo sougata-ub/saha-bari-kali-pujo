@@ -1,8 +1,3 @@
-<hr />
-layout: default
-title: Who is Maa Kali?
-<hr />
-
 <!-- 🔤 Language Switcher -->
 <div class="lang-switch" role="group" aria-label="Language switch">
   <button data-lang="en" class="active">English</button>
