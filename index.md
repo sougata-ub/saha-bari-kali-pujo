@@ -236,17 +236,17 @@ At this level, Shakti appears in the form of Maa Kali, Maa Durga, Maa Saraswati,
 ### Bhava 2: Kali as Shakti - The Power of Shiva {#aspect-2}
 At a deeper level, Maa Kali is not merely someone outside who blesses us; _She_ is the very Power of the Absolute (Shiva). _She_ is Shiva's ardhangini - _His_ other half, _His_ pulse. Without _Her_, Shiva is _sava_ - motionless, pure stillness without expression. _She_ is _His_ expressive power, the one who makes consciousness move. As mentioned in the 6th mantra of the [Devi Sukta](https://en.wikipedia.org/wiki/Dev%C4%ABs%C5%ABkta) ([Ṛgveda: X.125](https://en.wikipedia.org/wiki/Rigveda)):
 
-> ** ahaṃ rudrāya dhanurā tanomi brahmadviṣe śarave hantavā u, ahaṃ janāya samadaṃ kṛṇomy-ahaṃ dyāvā-pṛthivī āviveśa ॥** 6
+> **ahaṃ rudrāya dhanurā tanomi brahmadviṣe śarave hantavā u, ahaṃ janāya samadaṃ kṛṇomy-ahaṃ dyāvā-pṛthivī āviveśa ॥** 6
 >_(Meaning: I bend the bow for Rudra to slay the demonic enemies of the noble. I battle the enemies of my devotees. Indeed, I pervade heaven and earth.)_
 
 This is [Tantric](https://en.wikipedia.org/wiki/Tantra) [non-duality philosophy](https://en.wikipedia.org/wiki/Nondualism) (Shiva-Shakti tattva philosophy), where Shiva is pure, unchanging consciousness (Cit), and Shakti is the vibration, the movement (Spanda) of that consciousness. Together they form existence itself - the stillness and the dance. When Maa Kali dances, the universe comes alive; when _She_ stops, everything returns to stillness. Every breath, every heartbeat, every flash of thought is her movement within the vast silence of Shiva. In the Kali Tantra and Sakta texts, this union is described as a constant embrace, where Shiva, lying below, symbolizes the silent foundation of awareness, while Kali, standing upon _Him_, symbolizes energy rising and playing upon that awareness. When we recognize this, the image of Kali standing on Shiva is no longer "violent" but profoundly symbolic: consciousness and energy - two names for one Reality, forever entwined.
 
 ### Bhava 3: Kali as the Primordial Power that Flows through Us {#aspect-3}
 At this level, Kali is no longer just an external goddess or even the power of Shiva. _She_ is the primordial pulse that keeps the universe alive. Shakti is the unseen rhythm of existence, the force by which the unmanifest becomes manifest. The rising sun, the beating of your heart, the birth and death of stars - all dance to _Her_ rhythm. The same energy that spins galaxies also hums within your spine as [Prana](https://en.wikipedia.org/wiki/Prana). Every thought that flashes across your mind, every surge of emotion, every act of creation or destruction - all are movements of Shakti. _She_ is the power that makes perception possible, the background vibration that turns pure consciousness into experience. When you feel inspired, when you love deeply, when you suffer and still rise again - that's _Her_ too. Shakti is not "out there"; _She_ is the current that flows through everything that is. According to [Samkhya Philosophy](https://en.wikipedia.org/wiki/Samkhya), _She_ is Mūla-Prakṛti, the first cause. In [Advaita Vedanta](https://en.wikipedia.org/wiki/Advaita_Vedanta), _She_ is [Maya-Shakti](https://en.wikipedia.org/wiki/Maya_(religion)#Hinduism), the dynamic nature of [Nirguna Brahman](https://www.bbc.co.uk/bitesize/guides/zrf6pbk/revision/2) - pure stillness appearing as motion. Kali is that very motion - timeless energy taking form as time itself. As mentioned in the 4th and 8th mantras of the Devi Sukta (Ṛgveda: X.125):
-> ** mayā so annam-atti yo vipaśyati yaḥ prāṇiti ya īṃ śṛṇotyuktam, amantavo māṃ ta upa kṣiyanti śrudhi-śruta śraddhivaṃ te vadāmi ॥** 4
+> **mayā so annam-atti yo vipaśyati yaḥ prāṇiti ya īṃ śṛṇotyuktam, amantavo māṃ ta upa kṣiyanti śrudhi-śruta śraddhivaṃ te vadāmi ॥** 4
 >_(Meaning: He who eats food, sees, breathes, and hears that is spoken, does so through me. Those who are ignorant of me perish. You, who have ears, listen — I tell you that which is deserving of Śraddhā.)_
 >
-> ** aham-eva vāta-iva pra vāmy-ārabhamāṇā bhuvanāni viśvā, paro divā para enā pṛthivyaitāvatī mahinā saṃ babhūva ॥** 8
+> **aham-eva vāta-iva pra vāmy-ārabhamāṇā bhuvanāni viśvā, paro divā para enā pṛthivyaitāvatī mahinā saṃ babhūva ॥** 8
 > _(Meaning: Like the wind that blows, I set in motion all the created things. I am beyond the sky and the earth and I have become all this, in my own splendour.)_
 
 ### Bhava 4: Kali as Your Inner Being {#aspect-4}
@@ -269,19 +269,19 @@ This is the unchanging truth that death cannot touch. Your body will die, your m
 
 As Sri Krishna declares in the [Bhagavad Gita](https://www.holy-bhagavad-gita.org/index/):
 
-> ** avināśhi tu tadviddhi yena sarvam idaṁ tatam, vināśham avyayasyāsya na kaśhchit kartum arhati ॥** (2.17)
+> **avināśhi tu tadviddhi yena sarvam idaṁ tatam, vināśham avyayasyāsya na kaśhchit kartum arhati ॥** (2.17)
 > 
-> ** antavanta ime dehā nityasyoktāḥ śharīriṇaḥ, anāśhino ’prameyasya tasmād yudhyasva bhārata ॥** (2.18)
+> **antavanta ime dehā nityasyoktāḥ śharīriṇaḥ, anāśhino ’prameyasya tasmād yudhyasva bhārata ॥** (2.18)
 > 
-> ** ya enaṁ vetti hantāraṁ yaśh chainaṁ manyate hatam, ubhau tau na vijānīto nāyaṁ hanti na hanyate ॥** (2.19)
+> **ya enaṁ vetti hantāraṁ yaśh chainaṁ manyate hatam, ubhau tau na vijānīto nāyaṁ hanti na hanyate ॥** (2.19)
 > 
-> ** na jāyate mriyate vā kadāchin, nāyaṁ bhūtvā bhavitā vā na bhūyaḥ, ajo nityaḥ śhāśhvato ’yaṁ purāṇo, na hanyate hanyamāne śharīre ॥** (2.20)
+> **na jāyate mriyate vā kadāchin, nāyaṁ bhūtvā bhavitā vā na bhūyaḥ, ajo nityaḥ śhāśhvato ’yaṁ purāṇo, na hanyate hanyamāne śharīre ॥** (2.20)
 >
-> ** nainaṁ chhindanti śhastrāṇi nainaṁ dahati pāvakaḥ, na chainaṁ kledayantyāpo na śhoṣhayati mārutaḥ ॥** (2.23)
+> **nainaṁ chhindanti śhastrāṇi nainaṁ dahati pāvakaḥ, na chainaṁ kledayantyāpo na śhoṣhayati mārutaḥ ॥** (2.23)
 >
-> ** achchhedyo ’yam adāhyo ’yam akledyo ’śhoṣhya eva cha, nityaḥ sarva-gataḥ sthāṇur achalo ’yaṁ sanātanaḥ ॥** (2.24)
+> **achchhedyo ’yam adāhyo ’yam akledyo ’śhoṣhya eva cha, nityaḥ sarva-gataḥ sthāṇur achalo ’yaṁ sanātanaḥ ॥** (2.24)
 >
-> ** avyakto ’yam achintyo ’yam avikāryo ’yam uchyate, tasmādevaṁ viditvainaṁ nānuśhochitum arhasi ॥** (2.25)
+> **avyakto ’yam achintyo ’yam avikāryo ’yam uchyate, tasmādevaṁ viditvainaṁ nānuśhochitum arhasi ॥** (2.25)
 
 So yes - **you are Shakti**, but not in the egoic sense of possessing power.
 > You don't "have" Shakti; you are Shakti — localized for a while in this body, yet never limited by it.
