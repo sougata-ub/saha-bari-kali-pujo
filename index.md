@@ -8,10 +8,10 @@ title: Who is Maa Kali?
   <p>
     Click on the links below to listen to the songs containing the lines near the <em>mondop</em> and the <em>book stall</em>.
     This year, our prayer has been simple - that <strong>Maa</strong> may enter our lives and show us the
-    path to enlightenment. To guide us toward living each moment fully immersed in Her presence.
+    path to Enlightenment. To guide us toward living each moment fully immersed in Her presence.
   </p>
   <p>
-    Below, we have composed a short article - a heartfelt reflection on Maa Kali and Her many forms.
+    Also, we have composed a short article below - a heartfelt reflection on Maa Kali and Her many forms.
     Do give it a read, and may you find <strong>Maa</strong> in the form your heart desires. Joy Maa!
   </p>
 </section>
@@ -53,7 +53,7 @@ title: Who is Maa Kali?
   background:#fafafa;
   border:1px solid #e5e5e5;
   border-radius:14px;
-  padding:22px 12px;
+  padding:20px 10px;
   transition:transform .15s ease, box-shadow .15s ease, border-color .15s ease;
 }
 .video-tile:hover{
@@ -62,9 +62,10 @@ title: Who is Maa Kali?
   box-shadow:0 6px 20px rgba(0,0,0,.07);
 }
 .video-tile .icon{
-  font-size:2.6rem;
+  font-size:1.8rem;
   line-height:1;
-  margin-bottom:.5rem;
+  margin-bottom:.4rem;
+  color:#8B0000; /* crimson icon color */
 }
 .video-tile .caption{
   text-align:center;
@@ -82,6 +83,12 @@ title: Who is Maa Kali?
 }
 </style>
 
+<section class="additional-note" style="margin-bottom:2rem;">
+  <p>
+    Also, we have composed a short article below - a heartfelt reflection on Maa Kali and Her many forms.
+    Do give it a read, and may you find <strong>Maa</strong> in the form your heart desires. Joy Maa!
+  </p>
+</section>
 
 <!-- HERO IMAGE -->
 <p align="center">
@@ -89,7 +96,7 @@ title: Who is Maa Kali?
        style="width:70%; max-width:600px; border-radius:14px;">
 </p>
 
-# Who is Maa Kali?
+# Darshon E Maa Er Dorshon
 
 Being the first of the ten [Mahavidyas](https://en.wikipedia.org/wiki/Mahavidya), [Maa Kali](https://en.wikipedia.org/wiki/Kali) is the epitome of [Shakti](https://en.wikipedia.org/wiki/Shakti). _Her_ iconography depicts _Her_ as "ugra" (fierce) - Dark as the darkest [Kartik Amavasya](https://en.wikipedia.org/wiki/Amavasya) night sky, with three wide-open eyes that see past time, long tangled hair, a lolling crimson tongue, and wearing a garland of countless skulls symbolizing the passing of time - numerous births and deaths (Kaal). _She_ stands on [Lord Shiva](https://en.wikipedia.org/wiki/Shiva), in the cremation ground (samshan). In _Her_ left hands, she holds a severed head and a kharga (scimitar), symbols of the destruction of [Ahamkara](https://en.wikipedia.org/wiki/Ahamkara) (the ego or the “I” consciousness) and [Avidya](https://en.wikipedia.org/wiki/Avidy%C4%81_(Hinduism)) (ignorance). In _Her_ right, _She_ blesses and grants boons through the [Abhaya](https://en.wikipedia.org/wiki/Abhayamudra) and [Varada mudra](https://en.wikipedia.org/wiki/Varadamudra).
 Despite this fierce iconography, we love and adore _Her_ in our own ways. For example, my sister, looking at our community's (para) Kali idol (murti), exclaimed, "Maa ke khub cute dekhte lagche" (translation: Maa looks so cute). That's the magic of Kali - terrifying yet tender, destructive yet deeply loving.
@@ -194,7 +201,11 @@ When that insight dawns, all comparison dissolves. You no longer see "yourself" 
 ### Conclusion
 And thus, the journey completes. From worshipping _Her_ outside, to finding _Her_ within, to finally dissolving as _Her_. It's alright if we can't always "find" the Mother. She is Anondomoyee - ever-blissful, ever-revealing. She appears in whatever form you are ready to see. And if you truly long for Her, She will take the shape of your longing. As Thakur said, "Joto mot, toto poth" (As many faiths, so many paths). Truly, each heart has its own path to the Mother, and She expresses _Herself_ in each life in a unique way.
 
-But here lies the real difficulty. Once the days of the festival pass, we tend to forget _Her_. We get busy again, caught up in work, family, and endless routines. Busy chasing science, progress, and success. Busy offering our minds to the pleasures of the senses. Busy living the real life and shunning the philosophical aspect of life as if it is something only to be discussed over a cup of tea (aantlami). And in that busyness, the Mother becomes a faint memory, relegated to a quiet corner of the heart. To truly find _Her_ again, we must drop these toys of worldly life for a moment and bring back that yearning - that sacred restlessness (byakulata). As Thakur said, we have to shun our toys and only seek Maa, just like a child calls for their Mother and nothing else can pacify them other than their Mother. Not even their favorite toys. Without that, we remain content with the fleeting pleasures of a fleeting world and are never truly happy in life. Look around you. Can you find one person who says _"Yes, I a happy in life and I do not want anything else from it - I am content with all I have, and I don't want any more material pleasures that the world has to offer"?_ But when that yearning for the Mother awakens, even for a moment, you will see that Mother was never gone. She was there all along, in your breath, in your gaze, in your happiness and sadness, in that silent awareness within you.
+But here lies the real difficulty. Once the days of the festival pass, we tend to forget _Her_. "Life" rushes back in - work, family, deadlines, responsibilities. We become busy again: busy chasing science, progress, and success; busy offering our minds to the pleasures of the senses; busy living what we call "real life", while treating the philosophical side of life as mere theory - something to be discussed idly over a cup of tea (aantlami), but never actually lived. And in that busyness, the Mother becomes a faint memory - a quiet presence tucked away in some forgotten corner of the heart.
+
+To truly find _Her_ again, we must, even for a moment, set aside these toys of worldly life and rekindle that yearning - that sacred restlessness (byakulata). As Thakur said, we must abandon our toys and call out for the Mother, just as a child cries only for Ma and is pacified by nothing else - not even their favorite playthings. Without that yearning, we remain content with the fleeting pleasures of a fleeting world, never truly happy, never truly fulfilled. Look around you - can you find a single person who says, "Yes, I am perfectly happy with my life. I want nothing more, no further achievement, no added comfort or pleasure."?
+
+But when that longing for the Mother awakens, even for a single moment, you realize that _She_ was never gone. _She_ was there all along - in your breath, in your gaze, in your moments of joy and sorrow, in that silent awareness within you - the **Jyotir-o-Jyoti**.
 
 
 <style>
