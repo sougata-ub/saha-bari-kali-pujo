@@ -244,7 +244,7 @@ This is [Tantric](https://en.wikipedia.org/wiki/Tantra) [non-duality philosophy]
 
 At this level, Kali is no longer just an external goddess or even the power of Shiva. _She_ is the primordial pulse that keeps the universe alive. Shakti is the unseen rhythm of existence, the force by which the unmanifest becomes manifest. The rising sun, the beating of your heart, the birth and death of stars - all dance to _Her_ rhythm. The same energy that spins galaxies also hums within your spine as [Prana](https://en.wikipedia.org/wiki/Prana). Every thought that flashes across your mind, every surge of emotion, every act of creation or destruction - all are movements of Shakti. _She_ is the power that makes perception possible, the background vibration that turns pure consciousness into experience. When you feel inspired, when you love deeply, when you suffer and still rise again - that's _Her_ too. Shakti is not "out there"; _She_ is the current that flows through everything that is. According to [Samkhya Philosophy](https://en.wikipedia.org/wiki/Samkhya), _She_ is Mūla-Prakṛti, the first cause. In [Advaita Vedanta](https://en.wikipedia.org/wiki/Advaita_Vedanta), _She_ is [Maya-Shakti](https://en.wikipedia.org/wiki/Maya_(religion)#Hinduism), the dynamic nature of [Nirguna Brahman](https://www.bbc.co.uk/bitesize/guides/zrf6pbk/revision/2) - pure stillness appearing as motion. Kali is that very motion - timeless energy taking form as time itself. As mentioned in the 4th and 8th mantras of the Devi Sukta (Ṛgveda: X.125):
 > **mayā so annam-atti yo vipaśyati yaḥ prāṇiti ya īṃ śṛṇotyuktam, amantavo māṃ ta upa kṣiyanti śrudhi-śruta śraddhivaṃ te vadāmi ॥** 4
->_(Meaning: He who eats food, sees, breathes, and hears that is spoken, does so through me. Those who are ignorant of me perish. You, who have ears, listen — I tell you that which is deserving of Śraddhā.)_
+>_(Meaning: He who eats food, sees, breathes, and hears that is spoken, does so through me. Those who are ignorant of me perish. You, who have ears, listen - I tell you that which is deserving of Śraddhā.)_
 >
 > **aham-eva vāta-iva pra vāmy-ārabhamāṇā bhuvanāni viśvā, paro divā para enā pṛthivyaitāvatī mahinā saṃ babhūva ॥** 8
 > _(Meaning: Like the wind that blows, I set in motion all the created things. I am beyond the sky and the earth and I have become all this, in my own splendour.)_
@@ -262,12 +262,9 @@ Brahman is not a "cosmic thing". _It_ cannot be objectified, because _It_ is the
 
 You might dejectedly wonder, **"Then can I never experience Brahman?"**
 
-The paradox is, you already are experiencing _It_, always. Because, as the [Chandogya Upanishad](https://en.wikipedia.org/wiki/Chandogya_Upanishad) mentions, you are _It_. [**Tat tvam asi**](https://en.wikipedia.org/wiki/Mah%C4%81v%C4%81kyas) — You are That. Just as you infer the presence of light from the objects it reveals, you can infer Brahman from the very fact that you see, think, and feel. Objects in a room are not visible in the absence of light. Hence, seeing the objects is evidence of the presence of the illuminating light. Similarly, this entire existence is lit by That Consciousness. Every dream, every silence, every moment of awareness, every experience of yours is _Its_ evidence. Even the question "Can I experience Brahman?" arises within _Its_ light. Just like the ocean and its waves are nothing but water, you and Shakti are nothing but manifestations of Brahman.
+The paradox is, you already are experiencing _It_, always. Because, as the [Chandogya Upanishad](https://en.wikipedia.org/wiki/Chandogya_Upanishad) mentions, you are _It_. [**Tat tvam asi**](https://en.wikipedia.org/wiki/Mah%C4%81v%C4%81kyas) - You are That. Just as you infer the presence of light from the objects it reveals, you can infer Brahman from the very fact that you see, think, and feel. Objects in a room are not visible in the absence of light. Hence, seeing the objects is evidence of the presence of the illuminating light. Similarly, this entire existence is lit by That Consciousness. Every dream, every silence, every moment of awareness, every experience of yours is _Its_ evidence. Even the question "Can I experience Brahman?" arises within _Its_ light. Just like the ocean and its waves are nothing but water, you and Shakti are nothing but manifestations of Brahman.
 
 This is the unchanging truth that death cannot touch. Your body will die, your mind and the sense of "I" will dissolve, but your Swarupa (your true essence) is eternal. It is infinite, unborn, and deathless. As Sri Krishna declares in the [Bhagavad Gita](https://www.holy-bhagavad-gita.org/index/) (2.17-2.25): the Self is indestructible; weapons cannot cut it, fire cannot burn it, water cannot wet it, wind cannot dry it.
-
-
-As Sri Krishna declares in the [Bhagavad Gita](https://www.holy-bhagavad-gita.org/index/):
 
 > **avināśhi tu tadviddhi yena sarvam idaṁ tatam, vināśham avyayasyāsya na kaśhchit kartum arhati ॥** (2.17)
 > 
@@ -284,9 +281,9 @@ As Sri Krishna declares in the [Bhagavad Gita](https://www.holy-bhagavad-gita.or
 > **avyakto ’yam achintyo ’yam avikāryo ’yam uchyate, tasmādevaṁ viditvainaṁ nānuśhochitum arhasi ॥** (2.25)
 
 So yes - **you are Shakti**, but not in the egoic sense of possessing power.
-> You don't "have" Shakti; you are Shakti — localized for a while in this body, yet never limited by it.
+> You don't "have" Shakti; you are Shakti - localized for a while in this body, yet never limited by it.
 
-When that insight dawns, all comparison dissolves. You no longer see "yourself" and "others"; you see Maa everywhere — the same infinite, ever-living consciousness shining as every form. You realize **Chidanada roopah Shivoham Shivoham**, as nicely sung in [Nirvana Shatakam.](https://www.youtube.com/watch?v=Ed_RsCvuPBQ&list=RDEd_RsCvuPBQ&start_radio=1)
+When that insight dawns, all comparison dissolves. You no longer see "yourself" and "others"; you see Maa everywhere - the same infinite, ever-living consciousness shining as every form. You realize **Chidanada roopah Shivoham Shivoham**, as nicely sung in [Nirvana Shatakam.](https://www.youtube.com/watch?v=Ed_RsCvuPBQ&list=RDEd_RsCvuPBQ&start_radio=1)
 
 ### Conclusion
 And thus, the journey completes. From worshipping _Her_ outside, to finding _Her_ within, to finally dissolving as _Her_. It's alright if we can't always "find" the Mother. She is Anondomoyee - ever-blissful, ever-revealing. She appears in whatever form you are ready to see. And if you truly long for Her, She will take the shape of your longing. As Thakur said, "Joto mot, toto poth" (As many faiths, so many paths). Truly, each heart has its own path to the Mother, and She expresses _Herself_ in each life in a unique way.
@@ -339,7 +336,7 @@ With deep gratitude, I thank [Swami Samarpanananda ji](https://en.wikipedia.org/
 
 <section class="additional-note" style="margin-bottom:2rem;">
   <p>
-    মা কালীকে বিভিন্নভাবে বিভিন্ন রূপে দেখা — এই বিষয়ে আমরা নিচে একটি ছোট্ট প্রবন্ধ লিখেছি। পড়ে দেখবেন। আপনি যেন মায়ের দর্শন পান, ঠিক যেমন করে আপনার মন চায়। <strong>জয় মা!</strong>
+    মা কালীকে বিভিন্নভাবে বিভিন্ন রূপে দেখা - এই বিষয়ে আমরা নিচে একটি ছোট্ট প্রবন্ধ লিখেছি। পড়ে দেখবেন। আপনি যেন মায়ের দর্শন পান, ঠিক যেমন করে আপনার মন চায়। <strong>জয় মা!</strong>
   </p>
 </section>
 
@@ -384,39 +381,77 @@ With deep gratitude, I thank [Swami Samarpanananda ji](https://en.wikipedia.org/
 
 > **ahaṃ rudrāya dhanurā tanomi brahmadviṣe śarave hantavā u, ahaṃ janāya samadaṃ kṛṇomy-ahaṃ dyāvā-pṛthivī āviveśa ॥** 6
 >
->_(-আমি রুদ্রের ধনুক টানি… আকাশ-পাতাল ভেদ করে আমি বিরাজমান।)_
+> _(অর্থ: আমি রুদ্রের ধনুক টানি… আকাশ-পাতাল ভেদ করে আমি বিরাজমান।)_
 
 এটাই [তন্ত্র](https://en.wikipedia.org/wiki/Tantra)-র **শিব–শক্তি তত্ত্ব**: শিব = চিত্ (নির্বিকার চৈতন্য), শক্তি = স্পন্দ (চৈতন্যের আন্দোলন)। দু’য়ে মিলে সৃষ্টিস্বরূপ - *নিঃস্তব্ধতা ও নৃত্য*। কালী নৃত্য করলে বিশ্ব জেগে ওঠে; থামলে সব নিস্তব্ধ। প্রতিটি নিঃশ্বাস, হৃদস্পন্দন, চিন্তার ঝলক - শিবের নিস্তব্ধতায় মায়েরই নৃত্য। তাই শিব-বক্ষে কালীমূর্তি কোনো হিংসা নয় - গভীর প্রতীক: চৈতন্য ও শক্তি - এক সত্যের দুই নাম।
 
 ### ভাব ৩: আদ্যশক্তি {#aspect-3}
-এই স্তরে, কালী আর কেবল বাহিরের কোনো দেবী নন, এমনকি শিবের শক্তি হিসেবেও সীমাবদ্ধ নন। _তিনি_ হলেন সেই আদ্য-স্পন্দন, যা মহাবিশ্বকে জীবন্ত রাখে। শক্তি হল অস্তিত্বের অদৃশ্য ছন্দ—যার বলে অপ্রকাশ্য প্রকাশিত হয়। উদীয়মান সূর্য, তোমার হৃদয়ের স্পন্দন, নক্ষত্রের জন্ম ও মৃত্যু—সবই _তাঁর_ তালে নাচে। যে শক্তি গ্যালাক্সি ঘোরায়, সেই শক্তিই তোমার মেরুদণ্ডে [প্রাণ](https://en.wikipedia.org/wiki/Prana) হয়ে সুর তোলে। তোমার মনে যে চিন্তা ক্ষণিক ঝলকে ওঠে, যে আবেগ ঢেউ তোলে, সৃষ্টি বা বিনাশের প্রতিটি ক্রিয়া—সবই শক্তিরই গতি। _তিনি_ হলেন সেই শক্তি, যার ফলে উপলব্ধি সম্ভব; সেই পটভূমির কম্পন, যা নির্মল চৈতন্যকে অভিজ্ঞতায় রূপ দেয়। তুমি যখন অনুপ্রাণিত হও, গভীরভাবে ভালোবাসো, কষ্ট পেয়েও আবার উঠে দাঁড়াও—সেটাও _তাঁর_ই প্রকাশ। শক্তি কোথাও “বাইরে” নয়; _তিনি_ হলেন সেই স্রোত, যা যা-কিছু আছে, তার ভেতর দিয়েই প্রবাহিত। [সাংখ্য দর্শন](https://en.wikipedia.org/wiki/Samkhya) মতে, _তিনি_ মূলপ্রকৃতি (মূল কারণ)। [অদ্বৈত বেদান্ত](https://en.wikipedia.org/wiki/Advaita_Vedanta)-এ _তিনি_ [মায়া-শক্তি](https://en.wikipedia.org/wiki/Maya_(religion)#Hinduism)—[নির্গুণ ব্রহ্ম](https://www.bbc.co.uk/bitesize/guides/zrf6pbk/revision/2)-এর গতিশীল প্রকৃতি; স্থির নীরবতা যেখানে গতি হয়ে প্রকাশ পায়। কালী সেই গতি-ই—কালাতীত শক্তি, যা নিজেই “সময়” রূপ ধারণ করে। যেমন **দেবীসূক্তের** (ঋগ্বেদ: ১০.১২৫) ৪র্থ ও ৮ম মন্ত্রে বলা হয়েছে:
+এই স্তরে, কালী আর কেবল বাহিরের কোনো দেবী নন, এমনকি শিবের শক্তি হিসেবেও সীমাবদ্ধ নন। _তিনি_ হলেন সেই আদ্য-স্পন্দন, যা মহাবিশ্বকে জীবন্ত রাখে। শক্তি হল অস্তিত্বের অদৃশ্য ছন্দ-যার বলে অপ্রকাশ্য প্রকাশিত হয়। উদীয়মান সূর্য, তোমার হৃদয়ের স্পন্দন, নক্ষত্রের জন্ম ও মৃত্যু-সবই _তাঁর_ তালে নাচে। যে শক্তি গ্যালাক্সি ঘোরায়, সেই শক্তিই তোমার মেরুদণ্ডে [প্রাণ](https://en.wikipedia.org/wiki/Prana) হয়ে সুর তোলে। তোমার মনে যে চিন্তা ক্ষণিক ঝলকে ওঠে, যে আবেগ ঢেউ তোলে, সৃষ্টি বা বিনাশের প্রতিটি ক্রিয়া-সবই শক্তিরই গতি। _তিনি_ হলেন সেই শক্তি, যার ফলে উপলব্ধি সম্ভব; সেই পটভূমির কম্পন, যা নির্মল চৈতন্যকে অভিজ্ঞতায় রূপ দেয়। তুমি যখন অনুপ্রাণিত হও, গভীরভাবে ভালোবাসো, কষ্ট পেয়েও আবার উঠে দাঁড়াও-সেটাও _তাঁর_ই প্রকাশ। শক্তি কোথাও “বাইরে” নয়; _তিনি_ হলেন সেই স্রোত, যা যা-কিছু আছে, তার ভেতর দিয়েই প্রবাহিত। [সাংখ্য দর্শন](https://en.wikipedia.org/wiki/Samkhya) মতে, _তিনি_ মূলপ্রকৃতি (মূল কারণ)। [অদ্বৈত বেদান্ত](https://en.wikipedia.org/wiki/Advaita_Vedanta)-এ _তিনি_ [মায়া-শক্তি](https://en.wikipedia.org/wiki/Maya_(religion)#Hinduism)-[নির্গুণ ব্রহ্ম](https://www.bbc.co.uk/bitesize/guides/zrf6pbk/revision/2)-এর গতিশীল প্রকৃতি; স্থির নীরবতা যেখানে গতি হয়ে প্রকাশ পায়। কালী সেই গতি-ই-কালাতীত শক্তি, যা নিজেই “সময়” রূপ ধারণ করে। যেমন **দেবীসূক্তের** (ঋগ্বেদ: ১০.১২৫) ৪র্থ ও ৮ম মন্ত্রে বলা হয়েছে:
 > **mayā so annam-atti yo vipaśyati yaḥ prāṇiti ya īṃ śṛṇotyuktam, amantavo māṃ ta upa kṣiyanti śrudhi-śruta śraddhivaṃ te vadāmi ॥** 4
->_(যে আহার করে, যে দেখে, যে শ্বাস নেয়, এবং যে উচ্চারিত বাক্য শোনে—সে সবই আমার (শক্তি) দ্বারাই করে। যারা আমার সম্বন্ধে অজ্ঞ, তারা নাশপ্রাপ্ত হয়। হে কর্ণবান, শোন—আমি তোমাদের সেই কথাই বলি, যা শ্রদ্ধার যোগ্য।)_
+> 
+> _(অর্থ: যে আহার করে, যে দেখে, যে শ্বাস নেয়, এবং যে উচ্চারিত বাক্য শোনে-সে সবই আমার (শক্তি) দ্বারাই করে। যারা আমার সম্বন্ধে অজ্ঞ, তারা নাশপ্রাপ্ত হয়। হে কর্ণবান, শোন-আমি তোমাদের সেই কথাই বলি, যা শ্রদ্ধার যোগ্য।)_
 >
 > **aham-eva vāta-iva pra vāmy-ārabhamāṇā bhuvanāni viśvā, paro divā para enā pṛthivyaitāvatī mahinā saṃ babhūva ॥** 8
-> _(বয়ে যাওয়া বাতাসের মতো আমি (শক্তি) সব সৃষ্ট বস্তুকে গতি দিই। আমি আকাশ ও পৃথিবীর অতীত; নিজের মহিমায় আমি এ-সবই হয়ে উঠেছি।)_
+> 
+> _(অর্থ: বয়ে যাওয়া বাতাসের মতো আমি (শক্তি) সব সৃষ্ট বস্তুকে গতি দিই। আমি আকাশ ও পৃথিবীর অতীত; নিজের মহিমায় আমি এ-সবই হয়ে উঠেছি।)_
 
 ### ভাব ৪: অন্তরের আমি {#aspect-4}
-একটু কাছে এসো। জিজ্ঞেস করো - **“আমি কে?”** শরীর? মন? তাহলে “আমি” কোথায় থাকি? মস্তিষ্ক স্ক্যানে কি তোমাকে দেখা যাবে? দেহ যন্ত্র; *আত্মা* সূক্ষ্মতর।  
-গভীর নিদ্রায় মন স্তব্ধ, তবু জেগে উঠে বলো, “ভালো ঘুম হয়েছে”- কে জানল?  
-ভূমিকা বদলায় - কন্যা মা হয়, ছাত্র শিক্ষক হয় - কিন্তু কোনো স্থিতসত্তা সব দেখে। সেই **সাক্ষী**-ই সত্যিকারের তুমি।
 
-ধ্যানে দেখবে, ভাবনা-অনুভূতি ওঠে-নেমে, এমনকি “আমি”-বোধও আসে-যায়। ডুবে থেকে উঠে *জানো* তুমি ডুবেছিলে - এ জ্ঞানই **সাক্ষী**-র প্রমাণ। সাক্ষীর আকার নেই, সীমানা নেই, জন্ম নেই। তিনি **সৎ–চিত্–আনন্দ** - **ব্রহ্মস্বরূপ**। এখানে **শিব–শক্তি অভেদ** - স্থিতি ও গতি, দুটি নয় - **অদ্বৈত**। ঢেউ–সাগর-জল এক; নাম-রূপে ভেদ।
+এবার একটু কাছে এসো। নিজেকে জিজ্ঞেস করো-**“আমি কে?”** তুমি কি শরীর? নাকি মন? যদি তাই হয়, তবে দেহের ঠিক কোথায় “তুমি” বসবাস করো দেখিয়ে দাও। তুমি হয়তো মাথার দিকে ইঙ্গিত করে বলবে, _“এখানে, মস্তিষ্কে।”_ কিন্তু আমি যদি তোমার মস্তিষ্কের এম‌آর-আই করি, সেখানে কি বসে থাকা “তোমাকে” পাব? না, তাই তো? শরীর হল এক যন্ত্র, এক উপকরণ। আত্মা আরও সূক্ষ্ম।
 
-**ব্রহ্ম কী?** কোনো “বস্তু” নয়; *জ্ঞান করার আধার* বলেই অবস্তুনিষ্ঠ। তাই **“নেতি নেতি”** - যেটা বলা যায়, সবই ব্রহ্ম-প্রকাশের মধ্যে। **স্বামী সর্বপ্রিয়ানন্দ** বলেন: “বিষয় কখনও অবলম্বনকে বস্তু করতে পারে না।” গ্যোডেলের মত - সিস্টেমের ভেতরে এমন সত্য থাকে যা সিস্টেম দিয়ে প্রমাণ হয় না। তেমনি দেহ-মন দিয়ে ব্রহ্মকে বস্তু করা যায় না - কারণ ব্রহ্মই বিষয়।
+তারপর তুমি হয়তো বলবে, _“আমি মন-আমার ভাবনা, অনুভূতি, স্মৃতি।”_ কিন্তু আবার ভাবো। গভীর নিদ্রায় মন স্তব্ধ হয়ে যায়, তবু তুমি তো থাকো! ঘুম থেকে উঠে বলো, “ভালো ঘুম হয়েছে।” অর্থাৎ সেই শূন্যতাকেও কেউ প্রত্যক্ষ করেছে। অথবা তুমি বলবে, _“আমি সমাজে যে ভূমিকাগুলো পালন করি-অভিভাবক, সন্তান, চিকিৎসক, বন্ধু ইত্যাদি”-_ যা অনেক কগনিটিভ সায়েন্টিস্টের ভাবনার সঙ্গেও মেলে। কিন্তু ভূমিকা প্রতিদিন বদলায়-কন্যা মা হয়, ছাত্র শিক্ষক হয়, কর্মী প্রভু হয়। তোমার জ্ঞান, আবেগ, পছন্দ-অপছন্দ, এমনকি মতও সময়ে সময়ে রূপ বদলায়-তবু এক স্থির সত্তা সবকিছু লক্ষ্য করে যায়। এই পরিবর্তনের হিসাব কে রাখে? কে বলে, “আমি আগে অন্যরকম ছিলাম”? যে নীরব প্রত্যক্ষদর্শী-যে সচেতনতা পরিবর্তনকে টের পায়-সেই-ই আসল তুমি।
 
-**“তাহলে ব্রহ্মকে কি কখনো অনুভব করা যাবে না?”**  
-বিপরীত - সর্বক্ষণই তুমি *তাই*। **তত্ত্বমসि** - “তুই সেই।” যেমন আলোকিত বস্তু দেখে আলো বোঝা যায়, তেমনি দেখা–ভাবা–জানা - সবই ব্রহ্ম-প্রকাশ। প্রতিটি স্বপ্ন, নীরবতা, চৈতন্য-মুহূর্ত - তাঁরই প্রমাণ। ঢেউ–সাগর-জল যেমন এক, তেমনি তুমি–শক্তি–ব্রহ্ম এক সত্যের তিন দৃষ্টিভঙ্গি।
+আরও গভীরে যাই। ধ্যানে মনকে নিবিড়ভাবে দেখলে বোঝো-ভাবনা ওঠে-নামে, আবেগ আসে-যায়, এমনকি “আমি”-বোধটাও মিলিয়ে আবার ফিরে আসে। একাগ্রতার মুহূর্তে-পড়তে, আঁকতে, বা সিনেমা দেখতে-সময়, দেহ, চারপাশ ভুলে যাও। তবু পরে _জানো_ তুমি ডুবে ছিলে। এই জানা-ই সেই নীরব প্রত্যক্ষদর্শীর প্রমাণ-[সাক্ষী](https://en.wikipedia.org/wiki/Sakshi_(witness))-যে কখনও ঘুমোয় না। সাক্ষীর আকার নেই, সীমানা নেই, জন্ম নেই। তিনি নির্মল সচেতনতা-[সৎ–চিত্–আনন্দ](https://en.wikipedia.org/wiki/Saccid%C4%81nanda)-[ব্রহ্ম](https://en.wikipedia.org/wiki/Brahman)-এরই সারতত্ত্ব। এই স্তরে শিব ও শক্তি অবিভেদ্য-স্থিতি ও গতি, শক্তি ও চৈতন্য-দুটি নয়, **অদ্বৈত**। ঢেউ ও সাগর যেমন জলে এক, তেমনি নাম ও রূপে মাত্র ভেদ।
 
-এই সত্য মৃত্যু স্পর্শ করতে পারে না। দেহ নশ্বর, “আমি”-বোধ ম্লান হয়, কিন্তু তোমার **স্বরূপ** নিত্য - অনাদি, অজ, অবিনশ্বর। **গীতায়** (২.১৭–২৫) শ্রীকৃষ্ণ ঘোষণা করেছেন - আত্মা অক্ষয়; অস্ত্র কাটতে পারে না, অগ্নি পোড়াতে পারে না, জল ভেজাতে পারে না, বায়ু শুকোতে পারে না।
+**ব্রহ্ম কী?**
 
-অতএব - **তুমি শক্তি**, অহংকারে নয়, সত্তায়:
-> তুমি শক্তিকে “ধরো” না; **তুমিই** শক্তি - অস্থায়ীভাবে দেহে সীমাবদ্ধ, কিন্তু দেহে কখনো সীমিত নও।
+ব্রহ্ম কোনো “জাগতিক বস্তু” নয়। _তাকে_ বস্তু করা যায় না, কারণ _তাই_ জানা-চেনার অবলম্বন। ভাষা অনিবার্যভাবে _তাকে_ বস্তুর মতো ধরতে চায়, অথচ _সেই_ আলোর মধ্যেই তো ভাষাও দীপ্যমান। তাই ঋষিরা ["নেতি নেতি"](https://en.wikipedia.org/wiki/Neti_neti)-“এ নয়, সে নয়”-পদ্ধতি নিয়েছেন, ভাষার অতীতের দিকে ইঙ্গিত করতে। যা কিছু বর্ণনা করা যায়, তা-ই ইতিমধ্যে ব্রহ্ম-দীপ্ত। যেমন [স্বামী সর্বপ্রিয়ানন্দ](https://www.vedantany.org/introductory-lectures) সুন্দর করে বলেন, _“বিষয় কখনোই অভিজ্ঞতার বস্তু হতে পারে না।”_ আধ্যাত্মিক ক্ষেত্রে এটা [গ্যোডেলের অসম্পূর্ণতা-সূত্র](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems)-এর মতো: যে কোনো সিস্টেমের ভিতরে এমন সত্য থাকে যা সেই সিস্টেম দিয়ে প্রমাণসাধ্য নয়। তেমনই, এই সীমিত দেহ–মনের ভিতর থেকে আমরা ব্রহ্মকে “বস্তু” করে জানতে পারি না-কারণ ব্রহ্মই তো বিষয়, আর দেহ–মন বস্তু।
 
-এই বোধ উদিত হলে তুলনা–ভেদ সব মিলিয়ে যায়। “আমি” ও “অন্য” বলে থাকে না; সর্বত্র **মা**-কেই দেখ - অনন্ত চৈতন্যে জ্যোতিষ্মত রূপ। উচ্চারিত হয় - **চিদানন্দরূপঃ শিবো’হম্ শিবো’হম্**।
+তুমি হয়তো হতাশ হয়ে জিজ্ঞেস করবে, **“তাহলে কি আমি কখনোই ব্রহ্মকে অভিজ্ঞ করতে পারব না?”**
+
+বিরোধাভাস এই যে, তুমি তো সর্বক্ষণই _তাকে_ অভিজ্ঞ করছ। কারণ [ছান্দোগ্য উপনিষদ](https://en.wikipedia.org/wiki/Chandogya_Upanishad) বলছে-তুমিই _সে_। [**তত্ ত্বাম অসি**](https://en.wikipedia.org/wiki/Mah%C4%81v%C4%81kyas) - “তুই সেই।” যেমন আলোকিত বস্তুকে দেখে আলোর অস্তিত্ব ধরা পড়ে, তেমনি দেখা–ভাবা–অনুভব-এই যে চৈতন্যময়তা-এগুলো থেকেই ব্রহ্মের প্রমাণ মেলে। আলো না থাকলে ঘরের জিনিসপত্রই তো দৃশ্যমান নয়; সুতরাং বস্তু দেখা-ই আলোর উপস্থিতির প্রমাণ। তেমনি এই সমগ্র সত্তা, এই জগত-**সেই** চৈতন্যেই আলোকিত। তোমার প্রতিটি স্বপ্ন, প্রতিটি নীরবতা, প্রতিটি সচেতন মুহূর্ত, প্রতিটি অভিজ্ঞতা-সবই _তার_ প্রমাণ। এমনকি “আমি কি ব্রহ্মকে অভিজ্ঞ করতে পারি?”-এই প্রশ্নটিও _তার_ আলোর মধ্যেই উদয় হয়। যেমন সাগর ও ঢেউ আসলে জল ছাড়া আর কিছু নয়, তেমনি তুমি ও শক্তি-ব্রহ্মেরই বহুরূপ প্রকাশ।
+
+এটাই সেই অনচঞ্চল সত্য, যাকে মৃত্যু স্পর্শ করতে পারে না। দেহ মরবে, মন ও “আমি”-বোধ বিলীন হবে-কিন্তু তোমার **স্বরূপ** নিত্য। তা অনন্ত, অজ, অবিনশ্বর। যেমন [শ্রীকৃষ্ণ](https://www.holy-bhagavad-gita.org/index/) **ভগবদ্‌গীতায়** (২.১৭–২.২৫) ঘোষণা করেন-আত্মা অবিনশ্বর; অস্ত্র কাটতে পারে না, অগ্নি পোড়াতে পারে না, জল ভেজাতে পারে না, বায়ু শুকোতে পারে না।
+
+> **avināśhi tu tadviddhi yena sarvam idaṁ tatam, vināśham avyayasyāsya na kaśhchit kartum arhati ॥** (2.17)
+> 
+> **antavanta ime dehā nityasyoktāḥ śharīriṇaḥ, anāśhino ’prameyasya tasmād yudhyasva bhārata ॥** (2.18)
+> 
+> **ya enaṁ vetti hantāraṁ yaśh chainaṁ manyate hatam, ubhau tau na vijānīto nāyaṁ hanti na hanyate ॥** (2.19)
+> 
+> **na jāyate mriyate vā kadāchin, nāyaṁ bhūtvā bhavitā vā na bhūyaḥ, ajo nityaḥ śhāśhvato ’yaṁ purāṇo, na hanyate hanyamāne śharīre ॥** (2.20)
+>
+> **nainaṁ chhindanti śhastrāṇi nainaṁ dahati pāvakaḥ, na chainaṁ kledayantyāpo na śhoṣhayati mārutaḥ ॥** (2.23)
+>
+> **achchhedyo ’yam adāhyo ’yam akledyo ’śhoṣhya eva cha, nityaḥ sarva-gataḥ sthāṇur achalo ’yaṁ sanātanaḥ ॥** (2.24)
+>
+> **avyakto ’yam achintyo ’yam avikāryo ’yam uchyate, tasmādevaṁ viditvainaṁ nānuśhochitum arhasi ॥** (2.25)
+
+অতএব-**তুমি শক্তি**, তবে ক্ষমতাকে নিজের বলে ‘অধিকার’ করার অহংকারে নয়।
+
+> তুমি শক্তিকে “রেখে” বা “ধরে” রাখো না; **তুমিই** শক্তি-অস্থায়ীভাবে এই দেহে অবস্থান করলেও, এর দ্বারা কখনও সীমাবদ্ধ নও।
+
+যখন এই বোধ উদিত হয়, সব তুলনা গলে যায়। “আমি” আর “অন্য” বলে কিছু থাকে না; সর্বত্রই মাকে দেখ-একই অনন্ত, চিরজাগ্রত চৈতন্য প্রত্যেকটি রূপে দীপ্যমান। তখন উপলব্ধি হয়: **চিদানন্দরূপঃ শিবোহম্ শিবোহম্**, যেমন সুন্দরভাবে গাওয়া হয়েছে [নির্বাণ ষটকে](https://www.youtube.com/watch?v=Ed_RsCvuPBQ&list=RDEd_RsCvuPBQ&start_radio=1)।
+
 
 ### উপসংহার
-বাহিরের পূজা থেকে অন্তরের ধ্যান, শেষে অভেদে লয় - এভাবেই যাত্রা পূর্ণ। “মা” না-পেলেও ক্ষতি নেই - তিনি **আনন্দময়ী**, সদা-প্রকাশময়ী। তুমি যেরূপে দেখতে চাও, সেই রূপেই ধরা দেন। সত্যিকার ব্যাকুলতা থাকলে - “যত মত, তত পথ।”  
-কিন্তু সমস্যা - পূজার পর আমরা তাঁকে ভুলে যাই। জীবন ফিরে আসে - কাজ, পরিবার, সময়সীমা। বিজ্ঞান, প্রগতি, সফলতার পিছে ছুটি; ইন্দ্রিয়ভোগে মন বিলাই; দর্শনকে “টেবিল-টক” ভাবি। সেই ব্যস্ততায় মা মনের কোণে নিস্তব্ধ স্মৃতি হয়ে থাকেন।  
-তাঁকে পেতে হলে এক মুহূর্ত খেলনা-জীবন ছেড়ে **ব্যাকুলতা** ফেরাতে হবে - যেমন শিশু কেবল *মা*কেই ডাকে, খেলনা শান্ত করতে পারে না। ব্যাকুলতা ছাড়া ক্ষণস্থায়ী জগতে ক্ষণিক সুখেই আটকে থাকি। আর যেই সেই তৃষ্ণা জাগে, বুঝে নিও - মা কোনোদিন দূরে ছিলেন না; নিঃশ্বাসে, দৃষ্টিতে, সুখ–দুঃখে, অন্তরের নীরব চৈতন্যে - **জ্যোতিরও জ্যোতি**, সকল আলোর অন্তরালোক।
+এভাবেই যাত্রা সম্পূর্ণ হয়। বাহিরে *তাঁকে* পূজা করা থেকে, অন্তরে *তাঁকে* খুঁজে পাওয়া, শেষে *তাঁতেই* লয় হওয়া। মা আনন্দময়ী—সদা-আনন্দ, সদা-প্রকাশ। তুমি যে রূপে দেখতে প্রস্তুত, সেই রূপেই তিনি ধরা দেন। আর যদি সত্যিই তাঁকে চাও, তিনি তোমার আকাঙ্ক্ষারই রূপ ধারণ করবেন। যেমন ঠাকুর বলেছেন, “যত মত, তত পথ।” সত্যিই, প্রতিটি হৃদয়ের মা-র পথে চলার আলাদা পথ আছে, এবং প্রতিটি জীবনে তিনি নিজেকে আলাদা ভঙ্গিতে প্রকাশ করেন।
+
+কিন্তু এখানেই আসল দুঃখ। উৎসবের দিনগুলি পেরোলে আমরা *তাঁকে* ভুলে যাই। “জীবন” আবার দৌড়ে ফিরে আসে—কাজ, পরিবার, ডেডলাইন, দায়িত্ব। আমরা আবার ব্যস্ত হয়ে পড়ি: বিজ্ঞান, প্রগতি, সাফল্যের পিছু ধাওয়া; ইন্দ্রিয়সুখে মন সমর্পণ; যাকে “রিয়াল লাইফ” বলি, সেটার অজুহাতে দর্শন-চিন্তাকে নিছক তত্ত্ব মনে করে চায়ের আড্ডার (আন্টলামী) কথা—বাস্তবে বাঁচা নয়। সেই ব্যস্ততায় মা মনের এক ভুলে-যাওয়া কোণে চাপা স্মৃতি হয়ে থাকেন।
+
+*তাঁকে* সত্যিই আবার পেতে হলে, অন্তত এক মুহূর্তের জন্যও এই জাগতিক খেলনা-ভেলকি সরিয়ে রেখে ফিরিয়ে আনতে হবে সেই আকুলতা—সেই পবিত্র **ব্যাকুলতা**। যেমন ঠাকুর বলেছেন, খেলনা ফেলে রেখে শিশুর মতো মাকে ডাকতে হবে; যে শিশুকে কিছুতেই শান্ত করা যায় না—মা ছাড়া, প্রিয় খেলনাতেও নয়। ওই ব্যাকুলতা না থাকলে আমরা ক্ষণস্থায়ী জগতে ক্ষণিক সুখেই সন্তুষ্ট হয়ে থাকি—কখনো সত্যিকারের সুখী হই না। চারদিকে তাকাও—পাও কি এমন একজনকে, যে বলে, “হ্যাঁ, আমার জীবন সম্পূর্ণ সুখের; আর কিছু চাই না, আর কোনো সাফল্য, স্বাচ্ছন্দ্য বা সুখের প্রয়োজন নেই”?
+
+কিন্তু যেই মায়ের জন্য সেই তৃষ্ণা জেগে ওঠে—এক মুহূর্তের জন্যও—তখনই বুঝতে পারো, *তাঁকে* কোনোদিন হারাওনি। *তিনি* তো সব সময়ই ছিলেন—তোমার নিঃশ্বাসে, তোমার দৃষ্টিতে, তোমার সুখ-দুঃখে, তোমার অন্তরের নীরব চৈতন্যে—**জ্যোতিরও জ্যোতি**।
+
+### কৃতজ্ঞতা
+অন্তঃস্থ কৃতজ্ঞতাসহ, আমি [স্বামী সমর্পণানন্দজি](https://en.wikipedia.org/wiki/Swami_Samarpanananda), [স্বামী সর্বপ্রিয়ানন্দজি](https://en.wikipedia.org/wiki/Swami_Sarvapriyananda), এবং [স্বামী বিমলাত্মানন্দজি](https://belurmath.org/tentative-programme-of-srimat-swami-vimalatmananda-ji-maharaj/)-কে ধন্যবাদ জানাই—আমার জীবনে গুরু-রূপে তিনটি স্তম্ভ হয়ে থাকার জন্য। এই প্রবন্ধে যা কিছু স্পষ্ট বা সত্য, তার কৃতিত্ব তাঁদের; কোনো ত্রুটি থাকলে তা একান্তই আমার। [স্বামী সমর্পণানন্দজি](https://en.wikipedia.org/wiki/Swami_Samarpanananda)—হিন্দু আধ্যাত্মিক গ্রন্থের এক কৃতী শিক্ষক ও আচার্য। ঋগ্বেদের সূক্তসমূহের বহু উল্লেখ ও তাদের ব্যাখ্যা নেওয়া হয়েছে তাঁর [Indian Spiritual Heritage](https://www.youtube.com/@IndianSpiritualHeritage) শ্রেণি-নোট থেকে। [স্বামী সর্বপ্রিয়ানন্দজি](https://en.wikipedia.org/wiki/Swami_Sarvapriyananda)—আত্মা-অনুসন্ধান ও গীতার উপর [তাঁর অনুপ্রেরণামূলক বক্তৃতাগুলির](https://www.vedantany.org/lectures) জন্য, যা এই প্রবন্ধকে গভীরভাবে প্রভাবিত করেছে। [স্বামী বিমলাত্মানন্দজি](https://www.rkmyogodyan.org/)—আমার দীক্ষাগুরু, আমার কাণ্ডারী।
+
+
+
+
+
+
+
+
+
 </div>
