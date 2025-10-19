@@ -93,10 +93,34 @@ title: Who is Maa Kali?
 </style>
 
 
+<!--  DOUBLE LINE DIVIDER -->
+<div class="double-divider"></div>
 
+<style>
+.double-divider{
+  width:100%;
+  text-align:center;
+  margin:1.5rem 0 2rem;
+  position:relative;
+}
+.double-divider::before,
+.double-divider::after{
+  content:"";
+  display:block;
+  width:60%;
+  max-width:400px;
+  height:2px;
+  margin:0.4rem auto;
+  background:#8B0000; /* crimson lines */
+  border-radius:2px;
+}
+.double-divider::after{
+  width:40%;
+  opacity:0.8; /* subtle variation for second line */
+}
+</style>
 
 <section class="additional-note" style="margin-bottom:2rem;">
-  <hl>
   <p>
     We have also composed a short article below - a heartfelt reflection on Maa Kali and Her many forms.
     Do give it a read, and may you find <strong>Maa</strong> in the form your heart desires. <strong>Joy Maa!</strong>
