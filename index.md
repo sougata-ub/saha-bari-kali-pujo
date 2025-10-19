@@ -96,9 +96,10 @@ title: Who is Maa Kali?
 
 
 <section class="additional-note" style="margin-bottom:2rem;">
+  <hl>
   <p>
     We have also composed a short article below - a heartfelt reflection on Maa Kali and Her many forms.
-    Do give it a read, and may you find <strong>Maa</strong> in the form your heart desires. Joy Maa!
+    Do give it a read, and may you find <strong>Maa</strong> in the form your heart desires. <strong>Joy Maa!</strong>
   </p>
 </section>
 
