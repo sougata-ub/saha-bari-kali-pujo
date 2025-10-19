@@ -297,6 +297,9 @@ To truly find _Her_ again, we must, even for a moment, set aside these toys of w
 
 But when that longing for the Mother awakens, even for a single moment, you realize that _She_ was never gone. _She_ was there all along - in your breath, in your gaze, in your moments of joy and sorrow, in that silent awareness within you - the **Jyotir-o-Jyoti**.
 
+### Acknowledgement
+With deep gratitude, I thank [Swami Samarpanananda ji](https://en.wikipedia.org/wiki/Swami_Samarpanananda), [Swami Sarvapriyanada ji](https://en.wikipedia.org/wiki/Swami_Sarvapriyananda), and [Swami Vimalatmanada ji](https://belurmath.org/tentative-programme-of-srimat-swami-vimalatmananda-ji-maharaj/) for being three pillars in the form of gurus in my life. Whatever is clear or true in this article is due to them; any errors are mine alone. Swami Samarpanananda ji, a gifted teacher and acharya of Hindu spiritual texts. Many of the references to the Rig Veda Suktas and their interpretations are from his [Indian Spiritual Heritage](https://www.youtube.com/@IndianSpiritualHeritage) class notes. Swami Sarvapriyananda ji, for [his inspiring lectures](https://www.vedantany.org/lectures) on Vedantic inquiry into the Self and the Gita, which heavily influenced this article. [Swami Vimalatmananda ji](https://www.rkmyogodyan.org/), my diksha guru, my kandari.
+
 </div>
 
 <!-- =========================================================
