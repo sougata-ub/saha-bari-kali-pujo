@@ -156,7 +156,7 @@ body.lang-bn .lang-bn{ display:block; }
 
 <!--  WELCOME NOTE -->
 <section class="welcome-note centered" style="margin-bottom:2rem;">
-  <h2>Welcome to <span style="color:#8b0000;">Saha Bari's Kali Puja</span> Website</h2>
+  <h3>Welcome to <span style="color:#8b0000;">Saha Bari's Kali Puja</span> Website</h3>
   <p>
     Click on the links below to listen to the songs containing the lines near the <em>mondop</em> and the <em>book stall</em>.
     This year, our prayer has been simple - that <strong>Maa</strong> may enter our lives and show us the
@@ -167,7 +167,7 @@ body.lang-bn .lang-bn{ display:block; }
 <section class="video-tiles">
   <a class="video-tile" href="https://www.youtube.com/watch?v=sADh9yMDIHE&list=RDsADh9yMDIHE&index=1" target="_blank" rel="noopener">
     <div class="icon" aria-hidden="true">
-      <svg viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7-11-7z"></path></svg>
+      <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 3a9 9 0 00-9 9v6a3 3 0 003 3h1a2 2 0 002-2v-4a2 2 0 00-2-2H5v-1a7 7 0 0114 0v1h-2a2 2 0 00-2 2v4a2 2 0 002 2h1a3 3 0 003-3v-6a9 9 0 00-9-9z"></path></svg>
     </div>
     <div class="caption">
       <strong>Esheche Notun Manush - Dekhbi Jodi Aye Chole</strong>
@@ -200,7 +200,7 @@ body.lang-bn .lang-bn{ display:block; }
        style="width:70%; max-width:600px; border-radius:14px;">
 </p>
 
-# Darshon E Maa Er Dorshon
+## Darshon E Maa Er Dorshon
 
 Being the first of the ten [Mahavidyas](https://en.wikipedia.org/wiki/Mahavidya), [Maa Kali](https://en.wikipedia.org/wiki/Kali) is the epitome of [Shakti](https://en.wikipedia.org/wiki/Shakti). _Her_ iconography depicts _Her_ as "ugra" (fierce) - dark as the darkest [Kartik Amavasya](https://en.wikipedia.org/wiki/Amavasya) night sky, with three wide-open eyes that see past time, long tangled hair, a lolling crimson tongue, and a garland of countless skulls symbolizing the passing of time - innumerable births and deaths (*Kaal*). _She_ stands on [Lord Shiva](https://en.wikipedia.org/wiki/Shiva), in the cremation ground (*samshan*). In _Her_ left hands, She holds a severed head and a *kharga* (scimitar), symbols of the destruction of [Ahamkara](https://en.wikipedia.org/wiki/Ahamkara) (ego, the “I” consciousness) and [Avidya](https://en.wikipedia.org/wiki/Avidy%C4%81_(Hinduism)) (ignorance). In _Her_ right hands, _She_ blesses and grants boons through the [Abhaya](https://en.wikipedia.org/wiki/Abhayamudra) and [Varada mudra](https://en.wikipedia.org/wiki/Varadamudra).
 Despite this fierce iconography, we love and adore _Her_ in our own ways. For example, my sister, looking at our community's (*para*) Kali idol (*murti*), exclaimed, “Maa ke khub cute dekhte lagche” (Maa looks so cute). That's the magic of Kali - terrifying yet tender, destructive yet deeply loving.
@@ -283,7 +283,7 @@ To truly find Her again, we must pause and rekindle **byākulatā** - sacred yea
 <div class="lang-section lang-bn" markdown="1">
 
 <section class="welcome-note centered" style="margin-bottom:2rem;">
-  <h2>স্বাগতম <span style="color:#8b0000;">সাহা বাড়ির কালীপূজা</span> ওয়েবসাইটে</h2>
+  <h3>স্বাগতম <span style="color:#8b0000;">সাহা বাড়ির কালীপূজা</span> ওয়েবসাইটে</h3>
   <p>
     নিচের লিঙ্কগুলোতে ক্লিক করে <em>মণ্ডপ</em> ও <em>বইয়ের স্টলের</em> কাছে বাজতে থাকা গানের লাইনগুলির রেকর্ডিং শুনতে পারেন।
     এ বছর আমাদের প্রার্থনা খুব সহজ - <strong>মা</strong> যেন আমাদের জীবনে প্রবেশ করেন এবং
@@ -294,7 +294,7 @@ To truly find Her again, we must pause and rekindle **byākulatā** - sacred yea
 <section class="video-tiles">
   <a class="video-tile" href="https://www.youtube.com/watch?v=sADh9yMDIHE&list=RDsADh9yMDIHE&index=1" target="_blank" rel="noopener">
     <div class="icon" aria-hidden="true">
-      <svg viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7-11-7z"></path></svg>
+      <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 3a9 9 0 00-9 9v6a3 3 0 003 3h1a2 2 0 002-2v-4a2 2 0 00-2-2H5v-1a7 7 0 0114 0v1h-2a2 2 0 00-2 2v4a2 2 0 002 2h1a3 3 0 003-3v-6a9 9 0 00-9-9z"></path></svg>
     </div>
     <div class="caption">
       <strong>এসেছে নতুন মানুষ - দেখবি যদি আয় চলে</strong>
@@ -325,7 +325,7 @@ To truly find Her again, we must pause and rekindle **byākulatā** - sacred yea
        style="width:70%; max-width:600px; border-radius:14px;">
 </p>
 
-# দর্শনে মায়ের দর্শন
+## দর্শনে মায়ের দর্শন
 
 দশ মহাবিদ্যার মধ্যে প্রথম, [মা কালী](https://en.wikipedia.org/wiki/Kali) হলেন [শক্তি](https://en.wikipedia.org/wiki/Shakti)-রই মূর্ত প্রতীক। তাঁর আইকনোগ্রাফিতে _তাঁকে_ দেখা যায় **উগ্র** - [কার্তিকী অমাবস্যা](https://en.wikipedia.org/wiki/Amavasya)-র কৃষ্ণরাত্রির মতো কৃষ্ণবর্ণ, তিনটি বিস্ফারিত নয়ন যা সময়েরও ওপারে দেখে, এলোমেলো জটা, রক্তিম জিহ্বা, আর অনন্ত খুলি-মালায় সময়ের ধারাবাহিক জন্ম-মৃত্যুর (কাল) সংকেত। _তিনি_ [ভগবান শিব](https://en.wikipedia.org/wiki/Shiva)-ের বক্ষে [শ্মশানে] (সমশান) বিরাজমান। বামহস্তে কাটা মুণ্ডু ও *খড়্গ* - [অহংকার](https://en.wikipedia.org/wiki/Ahamkara) ও [অবিদ্যা](https://en.wikipedia.org/wiki/Avidy%C4%81_(Hinduism)) বিনাশের প্রতীক; ডানহাতে [অভয়](https://en.wikipedia.org/wiki/Abhayamudra) ও [বরদা](https://en.wikipedia.org/wiki/Varadamudra) মুদ্রা - আশীর্বাদ ও বরদান।  
 তবু এই ভয়াল রূপের মধ্যেও আমরা তাঁকে আপন করে ভালবাসি। আমাদের পাড়ার কালীমূর্তি দেখে আমার বোন হেসে বলেছিল, “মা-কে খুব কিউট দেখাচ্ছে!” - এটাই কালী-মায়ের মাহাত্ম্য - ভয়ংকর অথচ স্নেহময়ী, বিধ্বংসী অথচ গভীর প্রেমময়ী।
