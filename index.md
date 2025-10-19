@@ -5,6 +5,25 @@
 </div>
 
 <style>
+/* Center the language switch */
+.lang-switch{
+  display:flex; justify-content:center; align-items:center;
+  gap:8px; margin:0 auto 1rem; border:1px solid #e5e5e5;
+  border-radius:10px; padding:4px; width:fit-content;
+}
+@media(prefers-color-scheme:dark){ .lang-switch{ border-color:#333; } }
+
+/* Center the welcome note */
+.centered{ text-align:center; margin-left:auto; margin-right:auto; max-width:820px; }
+
+/* Restore strong heading sizes inside language sections */
+.lang-section h1{ font-size:clamp(2rem,4vw,2.6rem); line-height:1.2; margin:1.2rem 0 .7rem; font-weight:800; }
+.lang-section h2{ font-size:clamp(1.6rem,3vw,2rem); line-height:1.25; margin:1.1rem 0 .6rem; font-weight:750; }
+.lang-section h3{ font-size:clamp(1.15rem,2vw,1.35rem); line-height:1.3; margin:.9rem 0 .45rem; font-weight:700; }
+
+/* (Optional) hr spacing */
+hr{ margin:1.4rem 0; }
+
 /* Language visibility */
 .lang-section{ display:none; }
 body.lang-en .lang-en{ display:block; }
@@ -146,7 +165,7 @@ body.lang-bn .lang-bn{ display:block; }
 <div class="lang-section lang-en" markdown="1">
 
 <!--  WELCOME NOTE -->
-<section class="welcome-note" style="margin-bottom:2rem;">
+<section class="welcome-note centered" style="margin-bottom:2rem;">
   <h2>Welcome to <span style="color:#8b0000;">Saha Bari's Kali Puja</span> Website</h2>
   <p>
     Click on the links below to listen to the songs containing the lines near the <em>mondop</em> and the <em>book stall</em>.
@@ -273,7 +292,7 @@ To truly find Her again, we must pause and rekindle **byākulatā** - sacred yea
 ========================================================= -->
 <div class="lang-section lang-bn" markdown="1">
 
-<section class="welcome-note" style="margin-bottom:2rem;">
+<section class="welcome-note centered" style="margin-bottom:2rem;">
   <h2>স্বাগতম <span style="color:#8b0000;">সাহা বাড়ির কালীপূজা</span> ওয়েবসাইটে</h2>
   <p>
     নিচের লিঙ্কগুলোতে ক্লিক করে <em>মণ্ডপ</em> ও <em>বইয়ের স্টলের</em> কাছে বাজতে থাকা গানের লাইনগুলির রেকর্ডিং শুনতে পারেন।
