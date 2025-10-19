@@ -286,7 +286,7 @@ As Sri Krishna declares in the [Bhagavad Gita](https://www.holy-bhagavad-gita.or
 So yes - **you are Shakti**, but not in the egoic sense of possessing power.
 > You don't "have" Shakti; you are Shakti — localized for a while in this body, yet never limited by it.
 
-When that insight dawns, all comparison dissolves. You no longer see "yourself" and "others"; you see Maa everywhere — the same infinite, ever-living consciousness shining as every form. You realize **Chidanada roopah Shivoham Shivoham!**, as nicely sung in [Nirvana Shatakam.](https://www.youtube.com/watch?v=Ed_RsCvuPBQ&list=RDEd_RsCvuPBQ&start_radio=1)
+When that insight dawns, all comparison dissolves. You no longer see "yourself" and "others"; you see Maa everywhere — the same infinite, ever-living consciousness shining as every form. You realize **Chidanada roopah Shivoham Shivoham**, as nicely sung in [Nirvana Shatakam.](https://www.youtube.com/watch?v=Ed_RsCvuPBQ&list=RDEd_RsCvuPBQ&start_radio=1)
 
 ### Conclusion
 And thus, the journey completes. From worshipping _Her_ outside, to finding _Her_ within, to finally dissolving as _Her_. It's alright if we can't always "find" the Mother. She is Anondomoyee - ever-blissful, ever-revealing. She appears in whatever form you are ready to see. And if you truly long for Her, She will take the shape of your longing. As Thakur said, "Joto mot, toto poth" (As many faiths, so many paths). Truly, each heart has its own path to the Mother, and She expresses _Herself_ in each life in a unique way.
