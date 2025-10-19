@@ -15,7 +15,7 @@ title: Who is Maa Kali?
 <section class="video-tiles">
   <a class="video-tile" href="https://www.youtube.com/watch?v=sADh9yMDIHE&list=RDsADh9yMDIHE&index=1" target="_blank" rel="noopener">
     <div class="icon" aria-hidden="true">
-      <svg width="10" height="10" viewBox="0 0 24 24" fill="currentColor">
+      <svg viewBox="0 0 24 24" fill="currentColor">
         <path d="M12 3a9 9 0 00-9 9v6a3 3 0 003 3h1a2 2 0 002-2v-4a2 2 0 00-2-2H5v-1a7 7 0 0114 0v1h-2a2 2 0 00-2 2v4a2 2 0 002 2h1a3 3 0 003-3v-6a9 9 0 00-9-9z"></path>
       </svg>
     </div>
@@ -26,7 +26,7 @@ title: Who is Maa Kali?
 
   <a class="video-tile" href="https://www.youtube.com/watch?v=v_NX7qdX-0U&list=RDv_NX7qdX-0U&start_radio=1" target="_blank" rel="noopener">
     <div class="icon" aria-hidden="true">
-      <svg width="10" height="10" viewBox="0 0 24 24" fill="currentColor">
+      <svg viewBox="0 0 24 24" fill="currentColor">
         <path d="M12 3a9 9 0 00-9 9v6a3 3 0 003 3h1a2 2 0 002-2v-4a2 2 0 00-2-2H5v-1a7 7 0 0114 0v1h-2a2 2 0 00-2 2v4a2 2 0 002 2h1a3 3 0 003-3v-6a9 9 0 00-9-9z"></path>
       </svg>
     </div>
@@ -37,34 +37,58 @@ title: Who is Maa Kali?
 </section>
 
 <style>
-:root { --accent:#8B0000; } /* crimson */
-.video-tiles{
-  display:grid;gap:16px;grid-template-columns:repeat(2,1fr);
-  margin:1.5rem 0 2rem;
+:root{
+  --tile-bg:#8B0000;      /* Crimson box background */
+  --icon-color:#5a0000;   /* Deep blood red icon */
+  --text-light:#fff;      /* Text color on crimson */
 }
-@media(max-width:600px){.video-tiles{grid-template-columns:1fr;}}
+.video-tiles{
+  display:grid;
+  gap:14px;
+  grid-template-columns:repeat(2,1fr);
+  margin:1.2rem 0 1.8rem;
+}
+@media(max-width:600px){ .video-tiles{ grid-template-columns:1fr; } }
 
 .video-tile{
-  display:flex;flex-direction:column;align-items:center;justify-content:center;
-  text-decoration:none;background:#fafafa;border:1px solid #e5e5e5;
-  border-radius:14px;padding:18px 10px;
-  transition:transform .15s ease,box-shadow .15s ease,border-color .15s ease;
-  color:inherit;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content:center;
+  text-decoration:none;
+  background:var(--tile-bg);
+  color:var(--text-light);
+  border-radius:10px;
+  padding:14px 8px;
+  transition:transform .15s ease, box-shadow .15s ease;
 }
 .video-tile:hover{
   transform:translateY(-2px);
-  border-color:#d0d0d0;
-  box-shadow:0 6px 20px rgba(0,0,0,.07);
+  box-shadow:0 6px 18px rgba(0,0,0,.2);
 }
-.icon{color:var(--accent);margin-bottom:.3rem;}
-.icon svg{display:block;width:1.2rem;height:1.2rem;}
-.caption{text-align:center;}
-.caption p{margin:4px 0 0;font-size:.9rem;color:#666;}
-
-@media(prefers-color-scheme:dark){
-  .video-tile{background:#181818;border-color:#333;color:#ddd;}
-  .caption p{color:#aaa;}
-  .video-tile:hover{background:#202020;}
+.icon{
+  color:var(--icon-color);
+  margin-bottom:.25rem;
+}
+.icon svg{
+  width:0.9rem;   /* smaller icon size */
+  height:0.9rem;
+  display:block;
+}
+.caption{
+  text-align:center;
+  font-size:.85rem;  /* smaller text */
+  line-height:1.3;
+}
+.caption strong{
+  display:block;
+  font-size:.9rem;
+  margin-bottom:.15rem;
+}
+.caption p{
+  margin:0;
+  font-size:.8rem;
+  opacity:.9;
 }
 </style>
 
@@ -73,7 +97,7 @@ title: Who is Maa Kali?
 
 <section class="additional-note" style="margin-bottom:2rem;">
   <p>
-    Also, we have composed a short article below - a heartfelt reflection on Maa Kali and Her many forms.
+    We have also composed a short article below - a heartfelt reflection on Maa Kali and Her many forms.
     Do give it a read, and may you find <strong>Maa</strong> in the form your heart desires. Joy Maa!
   </p>
 </section>
