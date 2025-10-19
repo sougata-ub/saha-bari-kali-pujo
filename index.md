@@ -5,16 +5,6 @@
 </div>
 
 <style>
-/* Center the language switch */
-.lang-switch{
-  display:flex; justify-content:center; align-items:center;
-  gap:8px; margin:0 auto 1rem; border:1px solid #e5e5e5;
-  border-radius:10px; padding:4px; width:fit-content;
-}
-@media(prefers-color-scheme:dark){ .lang-switch{ border-color:#333; } }
-
-/* Center the welcome note */
-.centered{ text-align:center; margin-left:auto; margin-right:auto; max-width:820px; }
 
 /* Restore strong heading sizes inside language sections */
 .lang-section h1{ font-size:clamp(2rem,4vw,2.6rem); line-height:1.2; margin:1.2rem 0 .7rem; font-weight:800; }
