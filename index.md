@@ -157,11 +157,7 @@ body.lang-bn .lang-bn{ display:block; }
 <!--  WELCOME NOTE -->
 <section class="welcome-note centered" style="margin-bottom:2rem;">
   <h1>Welcome to <span style="color:#8b0000;">Saha Bari's Kali Puja</span> Website</h1>
-  <p>
-    Click on the links below to listen to the songs containing the lines near the <em>mondop</em> and the <em>book stall</em>.
-    This year, our prayer has been simple - that <strong>Maa</strong> may enter our lives and show us the
-    path to Enlightenment. To guide us toward living each moment fully immersed in Her presence.
-  </p>
+  <p> Click on the links below to listen to the songs containing the lines near the <em>mondop</em> and the <em>book stall</em>. <strong>We will upload all the pictures from the pujo to this website shortly.</strong> You can download your pictures from here soon. </p>
 </section>
 
 <section class="video-tiles">
@@ -189,7 +185,8 @@ body.lang-bn .lang-bn{ display:block; }
 
 <section class="additional-note" style="margin-bottom:2rem;">
   <p>
-    We have also composed a short article below - a heartfelt reflection on Maa Kali and Her many forms.
+    This year, our prayer has been simple - that <strong>Maa</strong> may enter our lives and show us the
+    path to Enlightenment. To guide us toward living each moment fully immersed in Her presence, we have composed a short article below - a heartfelt reflection on Maa Kali and Her many forms.
     Do give it a read, and may you find <strong>Maa</strong> in the form your heart desires. <strong>Joy Maa!</strong>
   </p>
 </section>
@@ -307,8 +304,7 @@ With deep gratitude, I thank [Swami Samarpanananda ji](https://en.wikipedia.org/
 <section class="welcome-note centered" style="margin-bottom:2rem;">
   <h1>স্বাগতম <span style="color:#8b0000;">সাহা বাড়ির কালীপূজা</span> ওয়েবসাইটে</h1>
   <p>
-    নিচের লিঙ্কগুলোতে ক্লিক করে <em>মণ্ডপ</em> ও <em>বইয়ের স্টলের</em> কাছে গানের লাইনগুলির রেকর্ডিং শুনতে পারেন।
-    এই বছর আমাদের প্রার্থনা খুবই সহজ। <strong>মা</strong> যেন আমাদের জীবনে প্রবেশ করে আমাদের <em>জ্ঞানার্জনের</em> পথ দেখায়। আমরা যেন মায়ের উপস্থিতি সর্বদা অনুভব করতে পারি।
+    নীচের লিঙ্কগুলিতে ক্লিক করে <em>মণ্ডপ</em> ও <em>বইয়ের স্টলের</em> কাছে গানের লাইনগুলির রেকর্ডিং শুনতে পারেন। <strong>পূজোর সব ছবি খুব শিগগিরই এই ওয়েবসাইটে আপলোড করা হবে।</strong> এখান থেকে আপনার ছবিগুলো ডাউনলোড করতে পারবেন।
   </p>
 </section>
 
@@ -336,7 +332,7 @@ With deep gratitude, I thank [Swami Samarpanananda ji](https://en.wikipedia.org/
 
 <section class="additional-note" style="margin-bottom:2rem;">
   <p>
-    মা কালীকে বিভিন্নভাবে বিভিন্ন রূপে দেখা - এই বিষয়ে আমরা নিচে একটি ছোট্ট প্রবন্ধ লিখেছি। পড়ে দেখবেন। আপনি যেন মায়ের দর্শন পান, ঠিক যেমন করে আপনার মন চায়। <strong>জয় মা!</strong>
+    এই বছর আমাদের প্রার্থনা খুবই সহজ। <strong>মা</strong> যেন আমাদের জীবনে প্রবেশ করে আমাদের <em>জ্ঞানার্জনের</em> পথ দেখায়। আমরা যেন মায়ের উপস্থিতি সর্বদা অনুভব করতে পারি। তাঁর উপস্থিতিতে প্রতিটি মুহূর্ত সম্পূর্ণ নিমগ্ন হয়ে বাঁচার পথে আমাদেরকে পথনির্দেশ করার জন্য নীচে আমরা একটি ছোট্ট প্রবন্ধ লিখেছি। মা কালী ও তাঁর নানান রূপ নিয়ে হৃদয়ের নিবেদন। পড়ে দেখবেন, এবং আপনার হৃদয় যে রূপ চায়, সেই রূপেই যেন <strong>মা</strong> ধরা দেন। <strong>জয় মা!</strong>
   </p>
 </section>
 
