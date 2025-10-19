@@ -10,23 +10,26 @@ title: Who is Maa Kali?
     This year, our prayer has been simple - that <strong>Maa</strong> may enter our lives and show us the
     path to Enlightenment. To guide us toward living each moment fully immersed in Her presence.
   </p>
-  <p>
-    Also, we have composed a short article below - a heartfelt reflection on Maa Kali and Her many forms.
-    Do give it a read, and may you find <strong>Maa</strong> in the form your heart desires. Joy Maa!
-  </p>
 </section>
 
-<!--  VIDEO ICON TILES -->
 <section class="video-tiles">
   <a class="video-tile" href="https://www.youtube.com/watch?v=sADh9yMDIHE&list=RDsADh9yMDIHE&index=1" target="_blank" rel="noopener">
-    <div class="icon">🎧</div>
+    <div class="icon" aria-hidden="true">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+        <path d="M8 5v14l11-7-11-7z"></path>
+      </svg>
+    </div>
     <div class="caption">
       <strong>Esheche Notun Manush Dekhbi Jodi Aye Chole</strong>
     </div>
   </a>
 
   <a class="video-tile" href="https://www.youtube.com/watch?v=v_NX7qdX-0U&list=RDv_NX7qdX-0U&start_radio=1" target="_blank" rel="noopener">
-    <div class="icon">🎧</div>
+    <div class="icon" aria-hidden="true">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+        <path d="M12 3a9 9 0 00-9 9v6a3 3 0 003 3h1a2 2 0 002-2v-4a2 2 0 00-2-2H5v-1a7 7 0 0114 0v1h-2a2 2 0 00-2 2v4a2 2 0 002 2h1a3 3 0 003-3v-6a9 9 0 00-9-9z"></path>
+      </svg>
+    </div>
     <div class="caption">
       <strong>Ramakrishna Namer Jowar Elo</strong>
     </div>
@@ -34,54 +37,39 @@ title: Who is Maa Kali?
 </section>
 
 <style>
+:root { --accent:#8B0000; } /* crimson */
 .video-tiles{
-  display:grid;
-  gap:16px;
-  grid-template-columns:repeat(2,1fr);
+  display:grid;gap:16px;grid-template-columns:repeat(2,1fr);
   margin:1.5rem 0 2rem;
 }
-@media(max-width:600px){
-  .video-tiles{ grid-template-columns:1fr; }
-}
+@media(max-width:600px){.video-tiles{grid-template-columns:1fr;}}
 
 .video-tile{
-  display:flex;
-  flex-direction:column;
-  align-items:center;
-  justify-content:center;
-  text-decoration:none;
-  background:#fafafa;
-  border:1px solid #e5e5e5;
-  border-radius:14px;
-  padding:20px 10px;
-  transition:transform .15s ease, box-shadow .15s ease, border-color .15s ease;
+  display:flex;flex-direction:column;align-items:center;justify-content:center;
+  text-decoration:none;background:#fafafa;border:1px solid #e5e5e5;
+  border-radius:14px;padding:18px 10px;
+  transition:transform .15s ease,box-shadow .15s ease,border-color .15s ease;
+  color:inherit;
 }
 .video-tile:hover{
   transform:translateY(-2px);
   border-color:#d0d0d0;
   box-shadow:0 6px 20px rgba(0,0,0,.07);
 }
-.video-tile .icon{
-  font-size:1.8rem;
-  line-height:1;
-  margin-bottom:.4rem;
-  color:#8B0000; /* crimson icon color */
-}
-.video-tile .caption{
-  text-align:center;
-  color:#333;
-}
-.video-tile .caption p{
-  margin:4px 0 0;
-  font-size:.9rem;
-  color:#666;
-}
+.icon{color:var(--accent);margin-bottom:.3rem;}
+.icon svg{display:block;width:1.2rem;height:1.2rem;}
+.caption{text-align:center;}
+.caption p{margin:4px 0 0;font-size:.9rem;color:#666;}
+
 @media(prefers-color-scheme:dark){
-  .video-tile{ background:#181818; border-color:#333; color:#ddd; }
-  .video-tile .caption p{ color:#aaa; }
-  .video-tile:hover{ background:#202020; }
+  .video-tile{background:#181818;border-color:#333;color:#ddd;}
+  .caption p{color:#aaa;}
+  .video-tile:hover{background:#202020;}
 }
 </style>
+
+
+
 
 <section class="additional-note" style="margin-bottom:2rem;">
   <p>
