@@ -14,7 +14,3 @@ theme: jekyll-theme-merlot #jekyll-theme-minimal
 markdown: kramdown
 paginate: 10
 logo: /kali_pic_2024.png
-kramdown:
-  input: GFM
-  hard_wrap: false
-  parse_block_html: true
