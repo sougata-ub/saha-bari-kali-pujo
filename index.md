@@ -201,12 +201,11 @@ body.lang-bn .lang-bn{ display:block; }
 </p>
 
 ## Darshon E Maa Er Dorshon
-
 Being the first of the ten [Mahavidyas](https://en.wikipedia.org/wiki/Mahavidya), [Maa Kali](https://en.wikipedia.org/wiki/Kali) is the epitome of [Shakti](https://en.wikipedia.org/wiki/Shakti). _Her_ iconography depicts _Her_ as "ugra" (fierce) - dark as the darkest [Kartik Amavasya](https://en.wikipedia.org/wiki/Amavasya) night sky, with three wide-open eyes that see past time, long tangled hair, a lolling crimson tongue, and a garland of countless skulls symbolizing the passing of time - innumerable births and deaths (*Kaal*). _She_ stands on [Lord Shiva](https://en.wikipedia.org/wiki/Shiva), in the cremation ground (*samshan*). In _Her_ left hands, _She_ holds a severed head and a *kharga* (scimitar), symbols of the destruction of [Ahamkara](https://en.wikipedia.org/wiki/Ahamkara) (ego, the “I” consciousness) and [Avidya](https://en.wikipedia.org/wiki/Avidy%C4%81_(Hinduism)) (ignorance). In _Her_ right hands, _She_ blesses and grants boons through the [Abhaya](https://en.wikipedia.org/wiki/Abhayamudra) and [Varada mudra](https://en.wikipedia.org/wiki/Varadamudra).
 Despite this fierce iconography, we love and adore _Her_ in our own ways. For example, my sister, looking at our community's (*para*) Kali idol (*murti*), exclaimed, “Maa ke khub cute dekhte lagche” (Maa looks so cute). That's the magic of Kali - terrifying yet tender, destructive yet deeply loving.
 
 _But who really is Maa Kali? What does She signify? **How can we see Her as Thakur Sri Ramakrishna saw Her?**_  
-Let’s take a journey together - to see Maa as the Mother, as Power, as the Primordial Energy, and as the Self within, each revealing a different facet of the same truth. Understanding each, we discover that how we see Maa depends on our *Bhava* - the inner feeling with which we approach Her.
+Let's take a journey together - to see Maa as the Mother, as Power, as the Primordial Energy, and as the Self within, each revealing a different facet of the same truth. Understanding each, we discover that how we see Maa depends on our *Bhava* - the inner feeling with which we approach Her.
 
 <!-- 4 TILES (OVERVIEW) -->
 <div class="tiles-4">
@@ -310,9 +309,8 @@ With deep gratitude, I thank [Swami Samarpanananda ji](https://en.wikipedia.org/
 <section class="welcome-note centered" style="margin-bottom:2rem;">
   <h3>স্বাগতম <span style="color:#8b0000;">সাহা বাড়ির কালীপূজা</span> ওয়েবসাইটে</h3>
   <p>
-    নিচের লিঙ্কগুলোতে ক্লিক করে <em>মণ্ডপ</em> ও <em>বইয়ের স্টলের</em> কাছে বাজতে থাকা গানের লাইনগুলির রেকর্ডিং শুনতে পারেন।
-    এ বছর আমাদের প্রার্থনা খুব সহজ - <strong>মা</strong> যেন আমাদের জীবনে প্রবেশ করেন এবং
-    আমাদেরকে আলোর পথে চালিত করেন; যেন প্রতিটি মুহূর্তে আমরা তাঁর উপস্থিতিতে নিমগ্ন থাকতে শিখি।
+    নিচের লিঙ্কগুলোতে ক্লিক করে <em>মণ্ডপ</em> ও <em>বইয়ের স্টলের</em> কাছে গানের লাইনগুলির রেকর্ডিং শুনতে পারেন।
+    এই বছর আমাদের প্রার্থনা খুবই সহজ। <strong>মা</strong> যেন আমাদের জীবনে প্রবেশ করে আমাদের <em>জ্ঞানার্জনের</em> পথ দেখায়। আমরা যেন মায়ের উপস্থিতি সর্বদা অনুভব করতে পারি।
   </p>
 </section>
 
@@ -340,8 +338,7 @@ With deep gratitude, I thank [Swami Samarpanananda ji](https://en.wikipedia.org/
 
 <section class="additional-note" style="margin-bottom:2rem;">
   <p>
-    নীচে আমরা একটি ছোট্ট নিবন্ধ দিয়েছি - মা কালী ও তাঁর নানান রূপ নিয়ে হৃদয়ের কথা।
-    পড়ে দেখবেন; আপনার হৃদয় যেমন করে চায়, সেভাবেই যেন <strong>মা</strong> ধরা দেন। <strong>জয় মা!</strong>
+    মা কালীকে বিভিন্নভাবে বিভিন্ন রূপে দেখা — এই বিষয়ে আমরা নিচে একটি ছোট্ট প্রবন্ধ লিখেছি। পড়ে দেখবেন। আপনি যেন মায়ের দর্শন পান, ঠিক যেমন করে আপনার মন চায়। <strong>জয় মা!</strong>
   </p>
 </section>
 
@@ -350,13 +347,12 @@ With deep gratitude, I thank [Swami Samarpanananda ji](https://en.wikipedia.org/
        style="width:70%; max-width:600px; border-radius:14px;">
 </p>
 
-## দর্শনে মায়ের দর্শন
+## মায়ের দার্শনিক দর্শন
+দশ [মহাবিদ্যার](https://en.wikipedia.org/wiki/Mahavidya) প্রথম মহাবিদ্যা [মা কালী](https://en.wikipedia.org/wiki/Kali)। তিনি শক্তিরূপিণী। উগ্র তাঁর রূপ। তাঁর গায়ের রঙ কার্তিকী অমাবস্যার গভীর অন্ধকারের থেকেও কালো। তিনি ত্রিনয়নী - সময়-কাল-এর ঊর্ধ্বে। তাঁর জটার মতো লম্বা চুল, লাল জিহ্বা, আর গলায় অসংখ্য খুলি দিয়ে গাঁথা মালা, যা অনন্ত জন্ম আর মৃত্যু (কাল)-এর প্রতীক। তিনি স্বয়ং পশুপতির বুকে শ্মশানে বিরাজমান। তাঁর বাঁ হাতে কাটা মুণ্ডু আর খড়্গ - [অহংকার](https://en.wikipedia.org/wiki/Ahamkara) আর [অবিদ্যার](https://en.wikipedia.org/wiki/Avidy%C4%81_(Hinduism)) বিনাশের প্রতীক। তিনি এক ডান হাতে আশ্বাস দিচ্ছেন [অভয় মুদ্রায়](https://en.wikipedia.org/wiki/Abhayamudra), আবার আর এক ডান হাতে বরদান দিচ্ছেন [বরদা মুদ্রায়](https://en.wikipedia.org/wiki/Varadamudra)।
+এই উগ্র রূপ হওয়া সত্ত্বেও আমরা ভয় না পেয়ে মাকে নিজ নিজ ভাবে স্নেহ করি আর ভালোবাসি। এই আগের দিন বোন পাড়ার কালীমূর্তি দেখে বলল, “মা-কে খুব কিউট দেখতে লাগছে।” এরকম অদ্ভুতই মায়ের টান - তিনি উগ্র হয়েও স্নেহময়ী।
 
-দশ মহাবিদ্যার মধ্যে প্রথম, [মা কালী](https://en.wikipedia.org/wiki/Kali) হলেন [শক্তি](https://en.wikipedia.org/wiki/Shakti)-রই মূর্ত প্রতীক। তাঁর আইকনোগ্রাফিতে _তাঁকে_ দেখা যায় **উগ্র** - [কার্তিকী অমাবস্যা](https://en.wikipedia.org/wiki/Amavasya)-র কৃষ্ণরাত্রির মতো কৃষ্ণবর্ণ, তিনটি বিস্ফারিত নয়ন যা সময়েরও ওপারে দেখে, এলোমেলো জটা, রক্তিম জিহ্বা, আর অনন্ত খুলি-মালায় সময়ের ধারাবাহিক জন্ম-মৃত্যুর (কাল) সংকেত। _তিনি_ [ভগবান শিব](https://en.wikipedia.org/wiki/Shiva)-ের বক্ষে [শ্মশানে] (সমশান) বিরাজমান। বামহস্তে কাটা মুণ্ডু ও *খড়্গ* - [অহংকার](https://en.wikipedia.org/wiki/Ahamkara) ও [অবিদ্যা](https://en.wikipedia.org/wiki/Avidy%C4%81_(Hinduism)) বিনাশের প্রতীক; ডানহাতে [অভয়](https://en.wikipedia.org/wiki/Abhayamudra) ও [বরদা](https://en.wikipedia.org/wiki/Varadamudra) মুদ্রা - আশীর্বাদ ও বরদান।  
-তবু এই ভয়াল রূপের মধ্যেও আমরা তাঁকে আপন করে ভালবাসি। আমাদের পাড়ার কালীমূর্তি দেখে আমার বোন হেসে বলেছিল, “মা-কে খুব কিউট দেখাচ্ছে!” - এটাই কালী-মায়ের মাহাত্ম্য - ভয়ংকর অথচ স্নেহময়ী, বিধ্বংসী অথচ গভীর প্রেমময়ী।
-
-_তবে মা কালী কে? তিনি কী বোঝান? **ঠাকুর শ্রী রামকৃষ্ণ যেমন করে দেখেছিলেন, আমরাও কি তেমন করে তাঁকে দেখতে পারি?**_  
-চলুন চারভাবে দেখি - মা **মাতা** রূপে, **শক্তি** রূপে, **আদ্যশক্তি** রূপে, আর **অন্তঃসত্তা** রূপে। একেকটি দৃষ্টিভঙ্গি একেকটি সত্যের আভাস দেয়। কোন *ভাব*ে আপনি মাকে ডাকছেন, তাই-ই নির্ধারণ করে আপনার দর্শন।
+তবে মা কালী কে? তিনি কিসের প্রতীক? **তাঁকে আমরা কীভাবে দেখতে পারি, ঠিক যেমন ঠাকুর রামকৃষ্ণ সবসময় দেখতেন?**
+চলুন একসাথে এক যাত্রায়, যেখানে মাকে আমরা চার রূপে দেখব - মাতারূপে, শক্তিরূপে, আদ্যশক্তিরূপে, আর আমাদের অন্তঃসত্তারূপে। ঠিক যেমন ঠাকুর রামকৃষ্ণ বলেছেন, _"যত মত, তত পথ।"_ তেমনি প্রতিটি রূপ মা-কে দেখার নানা পথ। আমাদের ভাবানুযায়ী যে রূপে চাই, আমরা মাকে সর্বদাই দেখতে পারি।
 
 <div class="tiles-4">
   <a class="tile" href="#aspect-1">
