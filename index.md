@@ -156,7 +156,7 @@ body.lang-bn .lang-bn{ display:block; }
 
 <!--  WELCOME NOTE -->
 <section class="welcome-note centered" style="margin-bottom:2rem;">
-  <h2>Welcome to <span style="color:#8b0000;">Saha Bari's Kali Puja</span> Website</h2>
+  <h1>Welcome to <span style="color:#8b0000;">Saha Bari's Kali Puja</span> Website</h1>
   <p>
     Click on the links below to listen to the songs containing the lines near the <em>mondop</em> and the <em>book stall</em>.
     This year, our prayer has been simple - that <strong>Maa</strong> may enter our lives and show us the
@@ -211,28 +211,28 @@ Let's take a journey together - to see Maa as the Mother, as Power, as the Primo
 <div class="tiles-4">
   <a class="tile" href="#aspect-1">
     <div class="tile-label">Bhava 1</div>
-    <h3>Kali as The Divine Mother</h3>
+    <h2>Kali as The Divine Mother</h2>
   </a>
   <a class="tile" href="#aspect-2">
     <div class="tile-label">Bhava 2</div>
-    <h3>Kali as The Power of Shiva</h3>
+    <h2>Kali as The Power of Shiva</h2>
   </a>
   <a class="tile" href="#aspect-3">
     <div class="tile-label">Bhava 3</div>
-    <h3>Kali as Primordial Power</h3>
+    <h2>Kali as Primordial Power</h2>
   </a>
   <a class="tile" href="#aspect-4">
     <div class="tile-label">Bhava 4</div>
-    <h3>Kali as Your Inner Being</h3>
+    <h2>Kali as Your Inner Being</h2>
   </a>
 </div>
 
 <hr />
 
-## Bhava 1: Kali as the Divine Mother {#aspect-1}
+# Bhava 1: Kali as the Divine Mother {#aspect-1}
 At this level, Shakti appears in the form of Maa Kali, Maa Durga, Maa Saraswati, or any motherly power we worship. _She_ is external to us, our divine protector, our guide, our nurturer. We call out to _Her_ as we would to our earthly mother. Sometimes in love, sometimes in fear, but always in faith. _She_ destroys evil and removes obstacles, yet her destruction is compassionate, which clears the path for light to enter. _She_ blesses those who walk the path of [Dharma](https://en.wikipedia.org/wiki/Dharma), and gently corrects those who stray. Understanding _Her_ in this way is [Bhakti Yoga](https://en.wikipedia.org/wiki/Bhakti_yoga), the path of devotion. Here, the devotee and the Divine are two separate beings bound by love. It's a relationship of sweetness, surrender, and emotion - a [_Rasa_](https://en.wikipedia.org/wiki/Rasa_(theology)) (flavour) that fills the heart with bliss.
 
-## Bhava 2: Kali as Shakti - The Power of Shiva {#aspect-2}
+# Bhava 2: Kali as Shakti - The Power of Shiva {#aspect-2}
 At a deeper level, Maa Kali is not merely someone outside who blesses us; _She_ is the very Power of the Absolute (Shiva). _She_ is Shiva's ardhangini - _His_ other half, _His_ pulse. Without _Her_, Shiva is _sava_ - motionless, pure stillness without expression. _She_ is _His_ expressive power, the one who makes consciousness move. As mentioned in the 6th mantra of the [Devi Sukta](https://en.wikipedia.org/wiki/Dev%C4%ABs%C5%ABkta) ([Ṛgveda: X.125](https://en.wikipedia.org/wiki/Rigveda)):
 
 > **ahaṃ rudrāya dhanurā tanomi brahmadviṣe śarave hantavā u, ahaṃ janāya samadaṃ kṛṇomy-ahaṃ dyāvā-pṛthivī āviveśa ॥** 6
@@ -240,7 +240,7 @@ At a deeper level, Maa Kali is not merely someone outside who blesses us; _She_ 
 
 This is [Tantric](https://en.wikipedia.org/wiki/Tantra) [non-duality philosophy](https://en.wikipedia.org/wiki/Nondualism) (Shiva-Shakti tattva philosophy), where Shiva is pure, unchanging consciousness (Cit), and Shakti is the vibration, the movement (Spanda) of that consciousness. Together they form existence itself - the stillness and the dance. When Maa Kali dances, the universe comes alive; when _She_ stops, everything returns to stillness. Every breath, every heartbeat, every flash of thought is her movement within the vast silence of Shiva. In the Kali Tantra and Sakta texts, this union is described as a constant embrace, where Shiva, lying below, symbolizes the silent foundation of awareness, while Kali, standing upon _Him_, symbolizes energy rising and playing upon that awareness. When we recognize this, the image of Kali standing on Shiva is no longer "violent" but profoundly symbolic: consciousness and energy - two names for one Reality, forever entwined.
 
-## Bhava 3: Kali as the Primordial Power that Flows through Us {#aspect-3}
+# Bhava 3: Kali as the Primordial Power that Flows through Us {#aspect-3}
 
 At this level, Kali is no longer just an external goddess or even the power of Shiva. _She_ is the primordial pulse that keeps the universe alive. Shakti is the unseen rhythm of existence, the force by which the unmanifest becomes manifest. The rising sun, the beating of your heart, the birth and death of stars - all dance to _Her_ rhythm. The same energy that spins galaxies also hums within your spine as [Prana](https://en.wikipedia.org/wiki/Prana). Every thought that flashes across your mind, every surge of emotion, every act of creation or destruction - all are movements of Shakti. _She_ is the power that makes perception possible, the background vibration that turns pure consciousness into experience. When you feel inspired, when you love deeply, when you suffer and still rise again - that's _Her_ too. Shakti is not "out there"; _She_ is the current that flows through everything that is. According to [Samkhya Philosophy](https://en.wikipedia.org/wiki/Samkhya), _She_ is Mūla-Prakṛti, the first cause. In [Advaita Vedanta](https://en.wikipedia.org/wiki/Advaita_Vedanta), _She_ is [Maya-Shakti](https://en.wikipedia.org/wiki/Maya_(religion)#Hinduism), the dynamic nature of [Nirguna Brahman](https://www.bbc.co.uk/bitesize/guides/zrf6pbk/revision/2) - pure stillness appearing as motion. Kali is that very motion - timeless energy taking form as time itself. As mentioned in the 4th and 8th mantras of the Devi Sukta (Ṛgveda: X.125):
 > **mayā so annam-atti yo vipaśyati yaḥ prāṇiti ya īṃ śṛṇotyuktam, amantavo māṃ ta upa kṣiyanti śrudhi-śruta śraddhivaṃ te vadāmi ॥** 4
@@ -249,7 +249,7 @@ At this level, Kali is no longer just an external goddess or even the power of S
 > **aham-eva vāta-iva pra vāmy-ārabhamāṇā bhuvanāni viśvā, paro divā para enā pṛthivyaitāvatī mahinā saṃ babhūva ॥** 8
 > _(Meaning: Like the wind that blows, I set in motion all the created things. I am beyond the sky and the earth and I have become all this, in my own splendour.)_
 
-## Bhava 4: Kali as Your Inner Being {#aspect-4}
+# Bhava 4: Kali as Your Inner Being {#aspect-4}
 Now come close. Ask yourself the question **"Who am I?"** Are you the body? The mind? If so, then point me to where in the body "you" reside? You might point towards your head and say, _"Here, in the brain"_. But, if I take an MRI of your brain, will I find you sitting there? No, right? The body is a tool, an instrument. The atma is subtler.
 
 Then maybe you will say, _"I am the mind - my thoughts, feelings, memories"_. But think again. In deep sleep, the mind goes silent, and yet you remain! You wake and say, "I slept well". Someone clearly witnessed even that blankness. Or perhaps you will say, _"I am the social roles I play - as a parent, a child, a doctor, a friend, etc."_ - an idea which resonates among many cognitive scientists. But roles change every day. The daughter becomes a mother, the student becomes a teacher, the employee becomes the boss. Your knowledge, emotions, preferences, even your opinions, evolve with time - yet something constant watches it all. Who keeps track of all these changes? Who says, "I was different before"? That quiet witness - that awareness which notes change - is the real you.
@@ -285,7 +285,7 @@ So yes - **you are Shakti**, but not in the egoic sense of possessing power.
 
 When that insight dawns, all comparison dissolves. You no longer see "yourself" and "others"; you see Maa everywhere - the same infinite, ever-living consciousness shining as every form. You realize **Chidanada roopah Shivoham Shivoham**, as nicely sung in [Nirvana Shatakam.](https://www.youtube.com/watch?v=Ed_RsCvuPBQ&list=RDEd_RsCvuPBQ&start_radio=1)
 
-## Conclusion
+# Conclusion
 And thus, the journey completes. From worshipping _Her_ outside, to finding _Her_ within, to finally dissolving as _Her_. It's alright if we can't always "find" the Mother. She is Anondomoyee - ever-blissful, ever-revealing. She appears in whatever form you are ready to see. And if you truly long for Her, She will take the shape of your longing. As Thakur said, "Joto mot, toto poth" (As many faiths, so many paths). Truly, each heart has its own path to the Mother, and She expresses _Herself_ in each life in a unique way.
 
 But here lies the real difficulty. Once the days of the festival pass, we tend to forget _Her_. "Life" rushes back in - work, family, deadlines, responsibilities. We become busy again: busy chasing science, progress, and success; busy offering our minds to the pleasures of the senses; busy living what we call "real life", while treating the philosophical side of life as mere theory - something to be discussed idly over a cup of tea (aantlami), but never actually lived. And in that busyness, the Mother becomes a faint memory - a quiet presence tucked away in some forgotten corner of the heart.
@@ -294,7 +294,7 @@ To truly find _Her_ again, we must, even for a moment, set aside these toys of w
 
 But when that longing for the Mother awakens, even for a single moment, you realize that _She_ was never gone. _She_ was there all along - in your breath, in your gaze, in your moments of joy and sorrow, in that silent awareness within you - the **Jyotir-o-Jyoti**.
 
-## Acknowledgement
+# Acknowledgement
 With deep gratitude, I thank [Swami Samarpanananda ji](https://en.wikipedia.org/wiki/Swami_Samarpanananda), [Swami Sarvapriyanada ji](https://en.wikipedia.org/wiki/Swami_Sarvapriyananda), and [Swami Vimalatmanada ji](https://belurmath.org/tentative-programme-of-srimat-swami-vimalatmananda-ji-maharaj/) for being three pillars in the form of gurus in my life. Whatever is clear or true in this article is due to them; any errors are mine alone. Swami Samarpanananda ji, a gifted teacher and acharya of Hindu spiritual texts. Many of the references to the Rig Veda Suktas and their interpretations are from his [Indian Spiritual Heritage](https://www.youtube.com/@IndianSpiritualHeritage) class notes. Swami Sarvapriyananda ji, for [his inspiring lectures](https://www.vedantany.org/lectures) on Vedantic inquiry into the Self and the Gita, which heavily influenced this article. [Swami Vimalatmananda ji](https://www.rkmyogodyan.org/), my diksha guru, my kandari.
 
 </div>
@@ -305,7 +305,7 @@ With deep gratitude, I thank [Swami Samarpanananda ji](https://en.wikipedia.org/
 <div class="lang-section lang-bn" markdown="1">
 
 <section class="welcome-note centered" style="margin-bottom:2rem;">
-  <h3>স্বাগতম <span style="color:#8b0000;">সাহা বাড়ির কালীপূজা</span> ওয়েবসাইটে</h3>
+  <h1>স্বাগতম <span style="color:#8b0000;">সাহা বাড়ির কালীপূজা</span> ওয়েবসাইটে</h1>
   <p>
     নিচের লিঙ্কগুলোতে ক্লিক করে <em>মণ্ডপ</em> ও <em>বইয়ের স্টলের</em> কাছে গানের লাইনগুলির রেকর্ডিং শুনতে পারেন।
     এই বছর আমাদের প্রার্থনা খুবই সহজ। <strong>মা</strong> যেন আমাদের জীবনে প্রবেশ করে আমাদের <em>জ্ঞানার্জনের</em> পথ দেখায়। আমরা যেন মায়ের উপস্থিতি সর্বদা অনুভব করতে পারি।
@@ -345,7 +345,7 @@ With deep gratitude, I thank [Swami Samarpanananda ji](https://en.wikipedia.org/
        style="width:70%; max-width:600px; border-radius:14px;">
 </p>
 
-## মায়ের দার্শনিক দর্শন
+# মায়ের দার্শনিক দর্শন
 দশ [মহাবিদ্যার](https://en.wikipedia.org/wiki/Mahavidya) প্রথম মহাবিদ্যা [মা কালী](https://en.wikipedia.org/wiki/Kali)। তিনি শক্তিরূপিণী। উগ্র তাঁর রূপ। তাঁর গায়ের রঙ কার্তিকী অমাবস্যার গভীর অন্ধকারের থেকেও কালো। তিনি ত্রিনয়নী - সময়-কাল-এর ঊর্ধ্বে। তাঁর জটার মতো লম্বা চুল, লাল জিহ্বা, আর গলায় অসংখ্য খুলি দিয়ে গাঁথা মালা, যা অনন্ত জন্ম আর মৃত্যু (কাল)-এর প্রতীক। তিনি স্বয়ং পশুপতির বুকে শ্মশানে বিরাজমান। তাঁর বাঁ হাতে কাটা মুণ্ডু আর খড়্গ - [অহংকার](https://en.wikipedia.org/wiki/Ahamkara) আর [অবিদ্যার](https://en.wikipedia.org/wiki/Avidy%C4%81_(Hinduism)) বিনাশের প্রতীক। তিনি এক ডান হাতে আশ্বাস দিচ্ছেন [অভয় মুদ্রায়](https://en.wikipedia.org/wiki/Abhayamudra), আবার আর এক ডান হাতে বরদান দিচ্ছেন [বরদা মুদ্রায়](https://en.wikipedia.org/wiki/Varadamudra)।
 এই উগ্র রূপ হওয়া সত্ত্বেও আমরা ভয় না পেয়ে মাকে নিজ নিজ ভাবে স্নেহ করি আর ভালোবাসি। এই আগের দিন বোন পাড়ার কালীমূর্তি দেখে বলল, “মা-কে খুব কিউট দেখতে লাগছে।” এরকম অদ্ভুতই মায়ের টান - তিনি উগ্র হয়েও স্নেহময়ী।
 
@@ -355,28 +355,28 @@ With deep gratitude, I thank [Swami Samarpanananda ji](https://en.wikipedia.org/
 <div class="tiles-4">
   <a class="tile" href="#aspect-1">
     <div class="tile-label">ভাব ১</div>
-    <h3>দিব্য জননী</h3>
+    <h2>দিব্য জননী</h2>
   </a>
   <a class="tile" href="#aspect-2">
     <div class="tile-label">ভাব ২</div>
-    <h3>শিবের সচল শক্তি</h3>
+    <h2>শিবের সচল শক্তি</h2>
   </a>
   <a class="tile" href="#aspect-3">
     <div class="tile-label">ভাব ৩</div>
-    <h3>আদ্যশক্তি</h3>
+    <h2>আদ্যশক্তি</h2>
   </a>
   <a class="tile" href="#aspect-4">
     <div class="tile-label">ভাব ৪</div>
-    <h3>অন্তরের আমি</h3>
+    <h2>অন্তরের আমি</h2>
   </a>
 </div>
 
 <hr />
 
-### ভাব ১: দিব্য জননী {#aspect-1}
+# ভাব ১: দিব্য জননী {#aspect-1}
 শক্তি প্রকাশিত হন মা কালী, মা দুর্গা, মা সরস্বতী এবং নানান মাতৃশক্তিরূপে। তিনি আমাদের সৃষ্টি করেছেন, বিপদ থেকে রক্ষা করেন, আমাদের ভালো রাখেন। যেমন আমরা জন্মদাত্রী মাকে ডাকি, তেমনি শক্তিরূপে মাকেও ডাকি - ভালো-খারাপ দু’সময়েই। তিনি অধর্মের নাশ করেন, বাধা সরান, আমাদের [ধর্মের](https://en.wikipedia.org/wiki/Dharma) পথে চলতে শেখান। আর যখন আমরা অধর্মের দিকে ঝুঁকে পড়ি, তিনি মমতা-সহ আমাদের সংশোধন করেন। মাকে এই রূপে দেখা-ই [ভক্তিযোগ](https://en.wikipedia.org/wiki/Bhakti_yoga) - মাধুর্য, স্নেহ ও আন্তরিকতায় ভরা।
 
-### ভাব ২: শিবের সচল শক্তি {#aspect-2}
+# ভাব ২: শিবের সচল শক্তি {#aspect-2}
 আরও গভীরে গেলে মা কালী কেবল বাহিরের কোনো সত্তা নন; _তিনি_ **পরম সত্যের শক্তি (শিব)**। _তিনি_ শিবের *অর্ধাঙ্গিনী* - তাঁর স্পন্দন। শক্তি ছাড়া শিব *শব* - নিস্তরঙ্গ চৈতন্য। _তিনি_ সেই প্রকাশশক্তি, যিনি চৈতন্যকে গতিময় করেন। [দেবীসূক্ত](https://en.wikipedia.org/wiki/Dev%C4%ABs%C5%ABkta) (ঋগ্বেদ ১০.১২৫) বলে:
 
 > **ahaṃ rudrāya dhanurā tanomi brahmadviṣe śarave hantavā u, ahaṃ janāya samadaṃ kṛṇomy-ahaṃ dyāvā-pṛthivī āviveśa ॥** 6
@@ -385,7 +385,7 @@ With deep gratitude, I thank [Swami Samarpanananda ji](https://en.wikipedia.org/
 
 এটাই [তন্ত্র](https://en.wikipedia.org/wiki/Tantra)-র **শিব–শক্তি তত্ত্ব**: শিব = চিত্ (নির্বিকার চৈতন্য), শক্তি = স্পন্দ (চৈতন্যের আন্দোলন)। দু’য়ে মিলে সৃষ্টিস্বরূপ - *নিঃস্তব্ধতা ও নৃত্য*। কালী নৃত্য করলে বিশ্ব জেগে ওঠে; থামলে সব নিস্তব্ধ। প্রতিটি নিঃশ্বাস, হৃদস্পন্দন, চিন্তার ঝলক - শিবের নিস্তব্ধতায় মায়েরই নৃত্য। তাই শিব-বক্ষে কালীমূর্তি কোনো হিংসা নয় - গভীর প্রতীক: চৈতন্য ও শক্তি - এক সত্যের দুই নাম।
 
-### ভাব ৩: আদ্যশক্তি {#aspect-3}
+# ভাব ৩: আদ্যশক্তি {#aspect-3}
 এই স্তরে, কালী আর কেবল বাহিরের কোনো দেবী নন, এমনকি শিবের শক্তি হিসেবেও সীমাবদ্ধ নন। _তিনি_ হলেন সেই আদ্য-স্পন্দন, যা মহাবিশ্বকে জীবন্ত রাখে। শক্তি হল অস্তিত্বের অদৃশ্য ছন্দ-যার বলে অপ্রকাশ্য প্রকাশিত হয়। উদীয়মান সূর্য, তোমার হৃদয়ের স্পন্দন, নক্ষত্রের জন্ম ও মৃত্যু-সবই _তাঁর_ তালে নাচে। যে শক্তি গ্যালাক্সি ঘোরায়, সেই শক্তিই তোমার মেরুদণ্ডে [প্রাণ](https://en.wikipedia.org/wiki/Prana) হয়ে সুর তোলে। তোমার মনে যে চিন্তা ক্ষণিক ঝলকে ওঠে, যে আবেগ ঢেউ তোলে, সৃষ্টি বা বিনাশের প্রতিটি ক্রিয়া-সবই শক্তিরই গতি। _তিনি_ হলেন সেই শক্তি, যার ফলে উপলব্ধি সম্ভব; সেই পটভূমির কম্পন, যা নির্মল চৈতন্যকে অভিজ্ঞতায় রূপ দেয়। তুমি যখন অনুপ্রাণিত হও, গভীরভাবে ভালোবাসো, কষ্ট পেয়েও আবার উঠে দাঁড়াও-সেটাও _তাঁর_ই প্রকাশ। শক্তি কোথাও “বাইরে” নয়; _তিনি_ হলেন সেই স্রোত, যা যা-কিছু আছে, তার ভেতর দিয়েই প্রবাহিত। [সাংখ্য দর্শন](https://en.wikipedia.org/wiki/Samkhya) মতে, _তিনি_ মূলপ্রকৃতি (মূল কারণ)। [অদ্বৈত বেদান্ত](https://en.wikipedia.org/wiki/Advaita_Vedanta)-এ _তিনি_ [মায়া-শক্তি](https://en.wikipedia.org/wiki/Maya_(religion)#Hinduism)-[নির্গুণ ব্রহ্ম](https://www.bbc.co.uk/bitesize/guides/zrf6pbk/revision/2)-এর গতিশীল প্রকৃতি; স্থির নীরবতা যেখানে গতি হয়ে প্রকাশ পায়। কালী সেই গতি-ই-কালাতীত শক্তি, যা নিজেই “সময়” রূপ ধারণ করে। যেমন **দেবীসূক্তের** (ঋগ্বেদ: ১০.১২৫) ৪র্থ ও ৮ম মন্ত্রে বলা হয়েছে:
 > **mayā so annam-atti yo vipaśyati yaḥ prāṇiti ya īṃ śṛṇotyuktam, amantavo māṃ ta upa kṣiyanti śrudhi-śruta śraddhivaṃ te vadāmi ॥** 4
 > 
@@ -395,7 +395,7 @@ With deep gratitude, I thank [Swami Samarpanananda ji](https://en.wikipedia.org/
 > 
 > _(অর্থ: বয়ে যাওয়া বাতাসের মতো আমি (শক্তি) সব সৃষ্ট বস্তুকে গতি দিই। আমি আকাশ ও পৃথিবীর অতীত; নিজের মহিমায় আমি এ-সবই হয়ে উঠেছি।)_
 
-### ভাব ৪: অন্তরের আমি {#aspect-4}
+# ভাব ৪: অন্তরের আমি {#aspect-4}
 
 এবার একটু কাছে এসো। নিজেকে জিজ্ঞেস করো-**“আমি কে?”** তুমি কি শরীর? নাকি মন? যদি তাই হয়, তবে দেহের ঠিক কোথায় “তুমি” বসবাস করো দেখিয়ে দাও। তুমি হয়তো মাথার দিকে ইঙ্গিত করে বলবে, _“এখানে, মস্তিষ্কে।”_ কিন্তু আমি যদি তোমার মস্তিষ্কের এম‌آর-আই করি, সেখানে কি বসে থাকা “তোমাকে” পাব? না, তাই তো? শরীর হল এক যন্ত্র, এক উপকরণ। আত্মা আরও সূক্ষ্ম।
 
@@ -434,7 +434,7 @@ With deep gratitude, I thank [Swami Samarpanananda ji](https://en.wikipedia.org/
 যখন এই বোধ উদিত হয়, সব তুলনা গলে যায়। “আমি” আর “অন্য” বলে কিছু থাকে না; সর্বত্রই মাকে দেখ-একই অনন্ত, চিরজাগ্রত চৈতন্য প্রত্যেকটি রূপে দীপ্যমান। তখন উপলব্ধি হয়: **চিদানন্দরূপঃ শিবোহম্ শিবোহম্**, যেমন সুন্দরভাবে গাওয়া হয়েছে [নির্বাণ ষটকে](https://www.youtube.com/watch?v=Ed_RsCvuPBQ&list=RDEd_RsCvuPBQ&start_radio=1)।
 
 
-### উপসংহার
+# উপসংহার
 এভাবেই যাত্রা সম্পূর্ণ হয়। বাহিরে *তাঁকে* পূজা করা থেকে, অন্তরে *তাঁকে* খুঁজে পাওয়া, শেষে *তাঁতেই* লয় হওয়া। মা আনন্দময়ী-সদা-আনন্দ, সদা-প্রকাশ। তুমি যে রূপে দেখতে প্রস্তুত, সেই রূপেই তিনি ধরা দেন। আর যদি সত্যিই তাঁকে চাও, তিনি তোমার আকাঙ্ক্ষারই রূপ ধারণ করবেন। যেমন ঠাকুর বলেছেন, “যত মত, তত পথ।” সত্যিই, প্রতিটি হৃদয়ের মা-র পথে চলার আলাদা পথ আছে, এবং প্রতিটি জীবনে তিনি নিজেকে আলাদা ভঙ্গিতে প্রকাশ করেন।
 
 কিন্তু এখানেই আসল দুঃখ। উৎসবের দিনগুলি পেরোলে আমরা *তাঁকে* ভুলে যাই। “জীবন” আবার দৌড়ে ফিরে আসে-কাজ, পরিবার, ডেডলাইন, দায়িত্ব। আমরা আবার ব্যস্ত হয়ে পড়ি: বিজ্ঞান, প্রগতি, সাফল্যের পিছু ধাওয়া; ইন্দ্রিয়সুখে মন সমর্পণ; যাকে “রিয়াল লাইফ” বলি, সেটার অজুহাতে দর্শন-চিন্তাকে নিছক তত্ত্ব মনে করে চায়ের আড্ডার (আন্টলামী) কথা-বাস্তবে বাঁচা নয়। সেই ব্যস্ততায় মা মনের এক ভুলে-যাওয়া কোণে চাপা স্মৃতি হয়ে থাকেন।
@@ -443,7 +443,7 @@ With deep gratitude, I thank [Swami Samarpanananda ji](https://en.wikipedia.org/
 
 কিন্তু যেই মায়ের জন্য সেই তৃষ্ণা জেগে ওঠে-এক মুহূর্তের জন্যও-তখনই বুঝতে পারো, *তাঁকে* কোনোদিন হারাওনি। *তিনি* তো সব সময়ই ছিলেন-তোমার নিঃশ্বাসে, তোমার দৃষ্টিতে, তোমার সুখ-দুঃখে, তোমার অন্তরের নীরব চৈতন্যে-**জ্যোতিরও জ্যোতি**।
 
-### কৃতজ্ঞতা
+# কৃতজ্ঞতা
 অন্তঃস্থ কৃতজ্ঞতাসহ, আমি [স্বামী সমর্পণানন্দজি](https://en.wikipedia.org/wiki/Swami_Samarpanananda), [স্বামী সর্বপ্রিয়ানন্দজি](https://en.wikipedia.org/wiki/Swami_Sarvapriyananda), এবং [স্বামী বিমলাত্মানন্দজি](https://belurmath.org/tentative-programme-of-srimat-swami-vimalatmananda-ji-maharaj/)-কে ধন্যবাদ জানাই-আমার জীবনে গুরু-রূপে তিনটি স্তম্ভ হয়ে থাকার জন্য। এই প্রবন্ধে যা কিছু স্পষ্ট বা সত্য, তার কৃতিত্ব তাঁদের; কোনো ত্রুটি থাকলে তা একান্তই আমার। [স্বামী সমর্পণানন্দজি](https://en.wikipedia.org/wiki/Swami_Samarpanananda)-হিন্দু আধ্যাত্মিক গ্রন্থের এক কৃতী শিক্ষক ও আচার্য। ঋগ্বেদের সূক্তসমূহের বহু উল্লেখ ও তাদের ব্যাখ্যা নেওয়া হয়েছে তাঁর [Indian Spiritual Heritage](https://www.youtube.com/@IndianSpiritualHeritage) শ্রেণি-নোট থেকে। [স্বামী সর্বপ্রিয়ানন্দজি](https://en.wikipedia.org/wiki/Swami_Sarvapriyananda)-আত্মা-অনুসন্ধান ও গীতার উপর [তাঁর অনুপ্রেরণামূলক বক্তৃতাগুলির](https://www.vedantany.org/lectures) জন্য, যা এই প্রবন্ধকে গভীরভাবে প্রভাবিত করেছে। [স্বামী বিমলাত্মানন্দজি](https://www.rkmyogodyan.org/)-আমার দীক্ষাগুরু, আমার কাণ্ডারী।
 
 
