@@ -1,7 +1,7 @@
----
+<hr />
 layout: default
 title: Who is Maa Kali?
----
+<hr />
 
 <!-- 🔤 Language Switcher -->
 <div class="lang-switch" role="group" aria-label="Language switch">
@@ -224,7 +224,7 @@ Let’s take a journey together - to see Maa as the Mother, as Power, as the Pri
   </a>
 </div>
 
----
+
 
 ### Bhava 1: Kali as the Divine Mother {#aspect-1}
 At this level, Shakti appears in the form of Maa Kali, Maa Durga, Maa Saraswati, or any motherly power we worship. _She_ is external to us - our divine protector, our guide, our nurturer. We call out to _Her_ as we would to our earthly mother: sometimes in love, sometimes in fear, always in faith. _She_ destroys evil and removes obstacles, yet Her destruction is compassionate - it clears the path for light to enter. _She_ blesses those who walk the path of [Dharma](https://en.wikipedia.org/wiki/Dharma), and gently corrects those who stray. Understanding _Her_ in this way is [Bhakti Yoga](https://en.wikipedia.org/wiki/Bhakti_yoga) - the path of devotion. Here, the devotee and the Divine are two beings bound by love: a relationship of sweetness, surrender, and emotion - a [_rasa_](https://en.wikipedia.org/wiki/Rasa_(theology)) that fills the heart with bliss.
@@ -348,7 +348,7 @@ _তবে মা কালী কে? তিনি কী বোঝান? **�
   </a>
 </div>
 
----
+<hr />
 
 ### ভাব ১: মা - দিব্য জননী {#aspect-1}
 এই স্তরে শক্তি উপস্থিত হন মা কালী, মা দুর্গা, মা সরস্বতী বা যে কোনও মাতৃশক্তি-রূপে। _তিনি_ আপাতত বাহিরে - রক্ষিকা, পথপ্রদর্শিকা, পোষিকা। কখনও প্রেমে, কখনও ভয়ে, কিন্তু বিশ্বাসে - আমরা তাঁকে ডাকি। তিনি দুষ্ট-দমন ও বিঘ্ন-নাশ করেন, কিন্তু সেই বিনাশও করুণাময় - আলোর পথ খুলে দেয়। [ধর্ম](https://en.wikipedia.org/wiki/Dharma)-পথিকদের আশীর্বাদ করেন, পথভ্রষ্টদের মমতায় সুধরান। এই দর্শনই [ভক্তি যোগ](https://en.wikipedia.org/wiki/Bhakti_yoga) - যেখানে ভক্ত ও ঈশ্বর দু’জন, কিন্তু প্রেমে আবদ্ধ। এ এক মাধুর্য, আত্মসমর্পণ ও রসের সম্পর্ক - হৃদয় ভরে ওঠে *রসে*।
