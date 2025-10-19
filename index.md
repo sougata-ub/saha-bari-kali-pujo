@@ -156,7 +156,7 @@ body.lang-bn .lang-bn{ display:block; }
 
 <!--  WELCOME NOTE -->
 <section class="welcome-note centered" style="margin-bottom:2rem;">
-  <h3>Welcome to <span style="color:#8b0000;">Saha Bari's Kali Puja</span> Website</h3>
+  <h2>Welcome to <span style="color:#8b0000;">Saha Bari's Kali Puja</span> Website</h2>
   <p>
     Click on the links below to listen to the songs containing the lines near the <em>mondop</em> and the <em>book stall</em>.
     This year, our prayer has been simple - that <strong>Maa</strong> may enter our lives and show us the
@@ -200,7 +200,7 @@ body.lang-bn .lang-bn{ display:block; }
        style="width:70%; max-width:600px; border-radius:14px;">
 </p>
 
-## Darshon E Maa Er Dorshon
+# Darshon E Maa Er Dorshon
 Being the first of the ten [Mahavidyas](https://en.wikipedia.org/wiki/Mahavidya), [Maa Kali](https://en.wikipedia.org/wiki/Kali) is the epitome of [Shakti](https://en.wikipedia.org/wiki/Shakti). _Her_ iconography depicts _Her_ as "ugra" (fierce) - dark as the darkest [Kartik Amavasya](https://en.wikipedia.org/wiki/Amavasya) night sky, with three wide-open eyes that see past time, long tangled hair, a lolling crimson tongue, and a garland of countless skulls symbolizing the passing of time - innumerable births and deaths (*Kaal*). _She_ stands on [Lord Shiva](https://en.wikipedia.org/wiki/Shiva), in the cremation ground (*samshan*). In _Her_ left hands, _She_ holds a severed head and a *kharga* (scimitar), symbols of the destruction of [Ahamkara](https://en.wikipedia.org/wiki/Ahamkara) (ego, the “I” consciousness) and [Avidya](https://en.wikipedia.org/wiki/Avidy%C4%81_(Hinduism)) (ignorance). In _Her_ right hands, _She_ blesses and grants boons through the [Abhaya](https://en.wikipedia.org/wiki/Abhayamudra) and [Varada mudra](https://en.wikipedia.org/wiki/Varadamudra).
 Despite this fierce iconography, we love and adore _Her_ in our own ways. For example, my sister, looking at our community's (*para*) Kali idol (*murti*), exclaimed, “Maa ke khub cute dekhte lagche” (Maa looks so cute). That's the magic of Kali - terrifying yet tender, destructive yet deeply loving.
 
@@ -229,10 +229,10 @@ Let's take a journey together - to see Maa as the Mother, as Power, as the Primo
 
 <hr />
 
-### Bhava 1: Kali as the Divine Mother {#aspect-1}
+## Bhava 1: Kali as the Divine Mother {#aspect-1}
 At this level, Shakti appears in the form of Maa Kali, Maa Durga, Maa Saraswati, or any motherly power we worship. _She_ is external to us, our divine protector, our guide, our nurturer. We call out to _Her_ as we would to our earthly mother. Sometimes in love, sometimes in fear, but always in faith. _She_ destroys evil and removes obstacles, yet her destruction is compassionate, which clears the path for light to enter. _She_ blesses those who walk the path of [Dharma](https://en.wikipedia.org/wiki/Dharma), and gently corrects those who stray. Understanding _Her_ in this way is [Bhakti Yoga](https://en.wikipedia.org/wiki/Bhakti_yoga), the path of devotion. Here, the devotee and the Divine are two separate beings bound by love. It's a relationship of sweetness, surrender, and emotion - a [_Rasa_](https://en.wikipedia.org/wiki/Rasa_(theology)) (flavour) that fills the heart with bliss.
 
-### Bhava 2: Kali as Shakti - The Power of Shiva {#aspect-2}
+## Bhava 2: Kali as Shakti - The Power of Shiva {#aspect-2}
 At a deeper level, Maa Kali is not merely someone outside who blesses us; _She_ is the very Power of the Absolute (Shiva). _She_ is Shiva's ardhangini - _His_ other half, _His_ pulse. Without _Her_, Shiva is _sava_ - motionless, pure stillness without expression. _She_ is _His_ expressive power, the one who makes consciousness move. As mentioned in the 6th mantra of the [Devi Sukta](https://en.wikipedia.org/wiki/Dev%C4%ABs%C5%ABkta) ([Ṛgveda: X.125](https://en.wikipedia.org/wiki/Rigveda)):
 
 > **ahaṃ rudrāya dhanurā tanomi brahmadviṣe śarave hantavā u, ahaṃ janāya samadaṃ kṛṇomy-ahaṃ dyāvā-pṛthivī āviveśa ॥** 6
@@ -240,7 +240,7 @@ At a deeper level, Maa Kali is not merely someone outside who blesses us; _She_ 
 
 This is [Tantric](https://en.wikipedia.org/wiki/Tantra) [non-duality philosophy](https://en.wikipedia.org/wiki/Nondualism) (Shiva-Shakti tattva philosophy), where Shiva is pure, unchanging consciousness (Cit), and Shakti is the vibration, the movement (Spanda) of that consciousness. Together they form existence itself - the stillness and the dance. When Maa Kali dances, the universe comes alive; when _She_ stops, everything returns to stillness. Every breath, every heartbeat, every flash of thought is her movement within the vast silence of Shiva. In the Kali Tantra and Sakta texts, this union is described as a constant embrace, where Shiva, lying below, symbolizes the silent foundation of awareness, while Kali, standing upon _Him_, symbolizes energy rising and playing upon that awareness. When we recognize this, the image of Kali standing on Shiva is no longer "violent" but profoundly symbolic: consciousness and energy - two names for one Reality, forever entwined.
 
-### Bhava 3: Kali as the Primordial Power that Flows through Us {#aspect-3}
+## Bhava 3: Kali as the Primordial Power that Flows through Us {#aspect-3}
 
 At this level, Kali is no longer just an external goddess or even the power of Shiva. _She_ is the primordial pulse that keeps the universe alive. Shakti is the unseen rhythm of existence, the force by which the unmanifest becomes manifest. The rising sun, the beating of your heart, the birth and death of stars - all dance to _Her_ rhythm. The same energy that spins galaxies also hums within your spine as [Prana](https://en.wikipedia.org/wiki/Prana). Every thought that flashes across your mind, every surge of emotion, every act of creation or destruction - all are movements of Shakti. _She_ is the power that makes perception possible, the background vibration that turns pure consciousness into experience. When you feel inspired, when you love deeply, when you suffer and still rise again - that's _Her_ too. Shakti is not "out there"; _She_ is the current that flows through everything that is. According to [Samkhya Philosophy](https://en.wikipedia.org/wiki/Samkhya), _She_ is Mūla-Prakṛti, the first cause. In [Advaita Vedanta](https://en.wikipedia.org/wiki/Advaita_Vedanta), _She_ is [Maya-Shakti](https://en.wikipedia.org/wiki/Maya_(religion)#Hinduism), the dynamic nature of [Nirguna Brahman](https://www.bbc.co.uk/bitesize/guides/zrf6pbk/revision/2) - pure stillness appearing as motion. Kali is that very motion - timeless energy taking form as time itself. As mentioned in the 4th and 8th mantras of the Devi Sukta (Ṛgveda: X.125):
 > **mayā so annam-atti yo vipaśyati yaḥ prāṇiti ya īṃ śṛṇotyuktam, amantavo māṃ ta upa kṣiyanti śrudhi-śruta śraddhivaṃ te vadāmi ॥** 4
@@ -249,7 +249,7 @@ At this level, Kali is no longer just an external goddess or even the power of S
 > **aham-eva vāta-iva pra vāmy-ārabhamāṇā bhuvanāni viśvā, paro divā para enā pṛthivyaitāvatī mahinā saṃ babhūva ॥** 8
 > _(Meaning: Like the wind that blows, I set in motion all the created things. I am beyond the sky and the earth and I have become all this, in my own splendour.)_
 
-### Bhava 4: Kali as Your Inner Being {#aspect-4}
+## Bhava 4: Kali as Your Inner Being {#aspect-4}
 Now come close. Ask yourself the question **"Who am I?"** Are you the body? The mind? If so, then point me to where in the body "you" reside? You might point towards your head and say, _"Here, in the brain"_. But, if I take an MRI of your brain, will I find you sitting there? No, right? The body is a tool, an instrument. The atma is subtler.
 
 Then maybe you will say, _"I am the mind - my thoughts, feelings, memories"_. But think again. In deep sleep, the mind goes silent, and yet you remain! You wake and say, "I slept well". Someone clearly witnessed even that blankness. Or perhaps you will say, _"I am the social roles I play - as a parent, a child, a doctor, a friend, etc."_ - an idea which resonates among many cognitive scientists. But roles change every day. The daughter becomes a mother, the student becomes a teacher, the employee becomes the boss. Your knowledge, emotions, preferences, even your opinions, evolve with time - yet something constant watches it all. Who keeps track of all these changes? Who says, "I was different before"? That quiet witness - that awareness which notes change - is the real you.
@@ -285,7 +285,7 @@ So yes - **you are Shakti**, but not in the egoic sense of possessing power.
 
 When that insight dawns, all comparison dissolves. You no longer see "yourself" and "others"; you see Maa everywhere - the same infinite, ever-living consciousness shining as every form. You realize **Chidanada roopah Shivoham Shivoham**, as nicely sung in [Nirvana Shatakam.](https://www.youtube.com/watch?v=Ed_RsCvuPBQ&list=RDEd_RsCvuPBQ&start_radio=1)
 
-### Conclusion
+## Conclusion
 And thus, the journey completes. From worshipping _Her_ outside, to finding _Her_ within, to finally dissolving as _Her_. It's alright if we can't always "find" the Mother. She is Anondomoyee - ever-blissful, ever-revealing. She appears in whatever form you are ready to see. And if you truly long for Her, She will take the shape of your longing. As Thakur said, "Joto mot, toto poth" (As many faiths, so many paths). Truly, each heart has its own path to the Mother, and She expresses _Herself_ in each life in a unique way.
 
 But here lies the real difficulty. Once the days of the festival pass, we tend to forget _Her_. "Life" rushes back in - work, family, deadlines, responsibilities. We become busy again: busy chasing science, progress, and success; busy offering our minds to the pleasures of the senses; busy living what we call "real life", while treating the philosophical side of life as mere theory - something to be discussed idly over a cup of tea (aantlami), but never actually lived. And in that busyness, the Mother becomes a faint memory - a quiet presence tucked away in some forgotten corner of the heart.
@@ -294,7 +294,7 @@ To truly find _Her_ again, we must, even for a moment, set aside these toys of w
 
 But when that longing for the Mother awakens, even for a single moment, you realize that _She_ was never gone. _She_ was there all along - in your breath, in your gaze, in your moments of joy and sorrow, in that silent awareness within you - the **Jyotir-o-Jyoti**.
 
-### Acknowledgement
+## Acknowledgement
 With deep gratitude, I thank [Swami Samarpanananda ji](https://en.wikipedia.org/wiki/Swami_Samarpanananda), [Swami Sarvapriyanada ji](https://en.wikipedia.org/wiki/Swami_Sarvapriyananda), and [Swami Vimalatmanada ji](https://belurmath.org/tentative-programme-of-srimat-swami-vimalatmananda-ji-maharaj/) for being three pillars in the form of gurus in my life. Whatever is clear or true in this article is due to them; any errors are mine alone. Swami Samarpanananda ji, a gifted teacher and acharya of Hindu spiritual texts. Many of the references to the Rig Veda Suktas and their interpretations are from his [Indian Spiritual Heritage](https://www.youtube.com/@IndianSpiritualHeritage) class notes. Swami Sarvapriyananda ji, for [his inspiring lectures](https://www.vedantany.org/lectures) on Vedantic inquiry into the Self and the Gita, which heavily influenced this article. [Swami Vimalatmananda ji](https://www.rkmyogodyan.org/), my diksha guru, my kandari.
 
 </div>
