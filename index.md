@@ -38,8 +38,8 @@ title: Who is Maa Kali?
 
 <style>
 :root{
-  --tile-bg:#8B0000;      /* Crimson box background */
-  --icon-color:#5a0000;   /* Deep blood red icon */
+  --tile-bg:#5a0000;      /* Crimson box background */
+  --icon-color:#8B0000;   /* Deep blood red icon */
   --text-light:#fff;      /* Text color on crimson */
 }
 .video-tiles{
