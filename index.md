@@ -157,7 +157,7 @@ body.lang-bn .lang-bn{ display:block; }
 <!--  WELCOME NOTE -->
 <section class="welcome-note centered" style="margin-bottom:2rem;">
   <h1>Welcome to <span style="color:#8b0000;">Saha Bari's Kali Puja</span> Website</h1>
-  <p> Click on the links below to listen to the songs containing the lines near the <em>mondop</em> and the <em>book stall</em>. <strong>We will upload all the pictures from the pujo to this website shortly.</strong> You can download your pictures from here soon. </p>
+  <p> Click on the links below to listen to the songs whose lyrics are posted on the walls. <strong>We will upload all the pictures from the pujo to this website shortly.</strong> You can download your pictures from here soon. </p>
 </section>
 
 <section class="video-tiles">
@@ -304,7 +304,7 @@ With deep gratitude, I thank [Swami Samarpanananda ji](https://en.wikipedia.org/
 <section class="welcome-note centered" style="margin-bottom:2rem;">
   <h1>স্বাগতম <span style="color:#8b0000;">সাহা বাড়ির কালীপূজা</span> ওয়েবসাইটে</h1>
   <p>
-    নীচের লিঙ্কগুলিতে ক্লিক করে <em>মণ্ডপ</em> ও <em>বইয়ের স্টলের</em> কাছে গানের লাইনগুলির রেকর্ডিং শুনতে পারেন। <strong>পূজোর সব ছবি খুব শিগগিরই এই ওয়েবসাইটে আপলোড করা হবে।</strong> এখান থেকে আপনার ছবিগুলো ডাউনলোড করতে পারবেন।
+    নীচের লিঙ্কগুলিতে ক্লিক করে যেসব গানের কথা দেওয়ালে টাঙানো রয়েছে, সেগুলো শুনুন। <strong>পূজোর সব ছবি খুব শিগগিরই এই ওয়েবসাইটে আপলোড করা হবে।</strong> এখান থেকে আপনার ছবিগুলো ডাউনলোড করতে পারবেন।
   </p>
 </section>
 
