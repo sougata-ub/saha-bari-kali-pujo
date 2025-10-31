@@ -370,7 +370,7 @@ With deep gratitude, I thank [Swami Samarpanananda ji](https://en.wikipedia.org/
 </section>
 
 <p align="center">
-  <img src="{{ '/kali_pic_2024.png' | relative_url }}" alt="মা কালী"
+  <img src="{{ '/kali_pic_2025.JPG' | relative_url }}" alt="মা কালী"
        style="width:70%; max-width:600px; border-radius:14px;">
 </p>
 
