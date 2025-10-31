@@ -42,10 +42,11 @@ body.lang-bn .lang-bn{ display:block; }
 .video-tiles{
   display:grid;
   gap:14px;
-  grid-template-columns:repeat(2,1fr);
+  grid-template-columns:repeat(3,1fr);
   margin:1.2rem 0 1.8rem;
 }
-@media(max-width:600px){ .video-tiles{ grid-template-columns:1fr; } }
+@media (max-width:900px){ .video-tiles{ grid-template-columns:repeat(2,1fr); } }
+@media (max-width:600px){ .video-tiles{ grid-template-columns:1fr; } }
 
 .video-tile{
   display:flex;
@@ -68,7 +69,7 @@ body.lang-bn .lang-bn{ display:block; }
   margin-bottom:.25rem;
 }
 .icon svg{
-  width:0.9rem; height:0.9rem; display:block;
+  width:3rem; height:3rem; display:block;
 }
 .caption{
   text-align:center;
@@ -158,7 +159,6 @@ body.lang-bn .lang-bn{ display:block; }
 <section class="welcome-note centered" style="margin-bottom:2rem;">
   <h1>Welcome to <span style="color:#8b0000;">Saha Bari's Kali Puja</span> Website</h1>
   <p>We've uploaded all the pictures from this year's Puja! Click on any of the folders below to view and download your photos from Google Drive.</p>
-  <p> Click on the links below to listen to the songs whose lyrics were posted near the book stall. <strong>We will upload all the pictures from the pujo to this website shortly.</strong> You can download your pictures from here soon. </p>
 </section>
 
 <!--  FOLDER LINKS SECTION -->
