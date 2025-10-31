@@ -158,7 +158,7 @@ body.lang-bn .lang-bn{ display:block; }
 <!--  WELCOME NOTE -->
 <section class="welcome-note centered" style="margin-bottom:2rem;">
   <h1>Welcome to <span style="color:#8b0000;">Saha Bari's Kali Puja</span> Website</h1>
-  <p>We've uploaded all the pictures from this year's Puja! Click on any of the folders below to view and download your photos from Google Drive.</p>
+  <p>We've uploaded all the pictures from this year's Puja! 📸 Click on any of the folders below to view and download your photos from Google Drive.</p>
 </section>
 
 <!--  FOLDER LINKS SECTION -->
@@ -211,7 +211,7 @@ body.lang-bn .lang-bn{ display:block; }
 
 <!-- HERO IMAGE -->
 <p align="center">
-  <img src="{{ '/kali_pic_2024.png' | relative_url }}" alt="Maa Kali"
+  <img src="{{ '/kali_pic_2025.JPG' | relative_url }}" alt="Maa Kali"
        style="width:70%; max-width:600px; border-radius:14px;">
 </p>
 
@@ -322,29 +322,46 @@ With deep gratitude, I thank [Swami Samarpanananda ji](https://en.wikipedia.org/
 <section class="welcome-note centered" style="margin-bottom:2rem;">
   <h1>স্বাগতম <span style="color:#8b0000;">সাহা বাড়ির কালীপূজা</span> ওয়েবসাইটে</h1>
   <p>
-    নীচের লিঙ্কগুলিতে ক্লিক করে যেসব গানের কথা দেওয়ালে টাঙানো রয়েছে, সেগুলো শুনুন। <strong>পূজোর সব ছবি খুব শিগগিরই এই ওয়েবসাইটে আপলোড করা হবে।</strong> এখান থেকে আপনার ছবিগুলো ডাউনলোড করতে পারবেন।
+   আমরা এই বছরের পূজোর সব ছবিগুলো আপলোড করেছি! 📸 নিচের যেকোনো ফোল্ডারে ক্লিক করে গুগল ড্রাইভ থেকে আপনার ছবি দেখতে ও ডাউনলোড করতে পারেন।
   </p>
 </section>
 
+<!--  FOLDER LINKS SECTION -->
 <section class="video-tiles">
-  <a class="video-tile" href="https://www.youtube.com/watch?v=sADh9yMDIHE&list=RDsADh9yMDIHE&index=1" target="_blank" rel="noopener">
+  <a class="video-tile" href="https://drive.google.com/drive/folders/1r1IOsvvwiQ6nCqzfFXrdc6kCMDM2z5ht?usp=sharing" target="_blank" rel="noopener">
     <div class="icon" aria-hidden="true">
-      <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 3a9 9 0 00-9 9v6a3 3 0 003 3h1a2 2 0 002-2v-4a2 2 0 00-2-2H5v-1a7 7 0 0114 0v1h-2a2 2 0 00-2 2v4a2 2 0 002 2h1a3 3 0 003-3v-6a9 9 0 00-9-9z"></path></svg>
+      <svg viewBox="0 0 24 24" fill="currentColor">
+        <path d="M10 4H4a2 2 0 00-2 2v12a2 2 0 002 2h16a2 2 0 002-2V8a2 2 0 00-2-2h-8l-2-2z"/>
+      </svg>
     </div>
     <div class="caption">
-      <strong>এসেছে নতুন মানুষ - দেখবি যদি আয় চলে</strong>
+      <strong>Folder 1</strong>
     </div>
   </a>
 
-  <a class="video-tile" href="https://www.youtube.com/watch?v=v_NX7qdX-0U&list=RDv_NX7qdX-0U&start_radio=1" target="_blank" rel="noopener">
+  <a class="video-tile" href="https://drive.google.com/drive/folders/1JLGveoKMjOPugd5vKVs4PSk6Ouotll8W" target="_blank" rel="noopener">
     <div class="icon" aria-hidden="true">
-      <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 3a9 9 0 00-9 9v6a3 3 0 003 3h1a2 2 0 002-2v-4a2 2 0 00-2-2H5v-1a7 7 0 0114 0v1h-2a2 2 0 00-2 2v4a2 2 0 002 2h1a3 3 0 003-3v-6a9 9 0 00-9-9z"></path></svg>
+      <svg viewBox="0 0 24 24" fill="currentColor">
+        <path d="M10 4H4a2 2 0 00-2 2v12a2 2 0 002 2h16a2 2 0 002-2V8a2 2 0 00-2-2h-8l-2-2z"/>
+      </svg>
     </div>
     <div class="caption">
-      <strong>রামকৃষ্ণ নামে জোয়ার এলো</strong>
+      <strong>Folder 2</strong>
+    </div>
+  </a>
+
+  <a class="video-tile" href="https://drive.google.com/drive/folders/1BUj72f0sw5aY4DGmIsrW642CLkP4wbSv" target="_blank" rel="noopener">
+    <div class="icon" aria-hidden="true">
+      <svg viewBox="0 0 24 24" fill="currentColor">
+        <path d="M10 4H4a2 2 0 00-2 2v12a2 2 0 002 2h16a2 2 0 002-2V8a2 2 0 00-2-2h-8l-2-2z"/>
+      </svg>
+    </div>
+    <div class="caption">
+      <strong>Folder 3</strong>
     </div>
   </a>
 </section>
+</div>
 
 <div class="double-divider"></div>
 
