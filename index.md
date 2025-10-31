@@ -196,7 +196,6 @@ body.lang-bn .lang-bn{ display:block; }
     </div>
   </a>
 </section>
-</div>
 
 <!--  DOUBLE LINE DIVIDER -->
 <div class="double-divider"></div>
@@ -361,7 +360,6 @@ With deep gratitude, I thank [Swami Samarpanananda ji](https://en.wikipedia.org/
     </div>
   </a>
 </section>
-</div>
 
 <div class="double-divider"></div>
 
