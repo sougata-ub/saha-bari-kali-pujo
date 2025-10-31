@@ -157,28 +157,46 @@ body.lang-bn .lang-bn{ display:block; }
 <!--  WELCOME NOTE -->
 <section class="welcome-note centered" style="margin-bottom:2rem;">
   <h1>Welcome to <span style="color:#8b0000;">Saha Bari's Kali Puja</span> Website</h1>
-  <p> Click on the links below to listen to the songs whose lyrics are posted on the walls. <strong>We will upload all the pictures from the pujo to this website shortly.</strong> You can download your pictures from here soon. </p>
+  <p>We've uploaded all the pictures from this year's Puja! Click on any of the folders below to view and download your photos from Google Drive.</p>
+  <p> Click on the links below to listen to the songs whose lyrics were posted near the book stall. <strong>We will upload all the pictures from the pujo to this website shortly.</strong> You can download your pictures from here soon. </p>
 </section>
 
+<!--  FOLDER LINKS SECTION -->
 <section class="video-tiles">
-  <a class="video-tile" href="https://www.youtube.com/watch?v=sADh9yMDIHE&list=RDsADh9yMDIHE&index=1" target="_blank" rel="noopener">
+  <a class="video-tile" href="https://drive.google.com/drive/folders/1r1IOsvvwiQ6nCqzfFXrdc6kCMDM2z5ht?usp=sharing" target="_blank" rel="noopener">
     <div class="icon" aria-hidden="true">
-      <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 3a9 9 0 00-9 9v6a3 3 0 003 3h1a2 2 0 002-2v-4a2 2 0 00-2-2H5v-1a7 7 0 0114 0v1h-2a2 2 0 00-2 2v4a2 2 0 002 2h1a3 3 0 003-3v-6a9 9 0 00-9-9z"></path></svg>
+      <svg viewBox="0 0 24 24" fill="currentColor">
+        <path d="M10 4H4a2 2 0 00-2 2v12a2 2 0 002 2h16a2 2 0 002-2V8a2 2 0 00-2-2h-8l-2-2z"/>
+      </svg>
     </div>
     <div class="caption">
-      <strong>Esheche Notun Manush - Dekhbi Jodi Aye Chole</strong>
+      <strong>Folder 1</strong>
     </div>
   </a>
 
-  <a class="video-tile" href="https://www.youtube.com/watch?v=v_NX7qdX-0U&list=RDv_NX7qdX-0U&start_radio=1" target="_blank" rel="noopener">
+  <a class="video-tile" href="https://drive.google.com/drive/folders/1JLGveoKMjOPugd5vKVs4PSk6Ouotll8W" target="_blank" rel="noopener">
     <div class="icon" aria-hidden="true">
-      <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 3a9 9 0 00-9 9v6a3 3 0 003 3h1a2 2 0 002-2v-4a2 2 0 00-2-2H5v-1a7 7 0 0114 0v1h-2a2 2 0 00-2 2v4a2 2 0 002 2h1a3 3 0 003-3v-6a9 9 0 00-9-9z"></path></svg>
+      <svg viewBox="0 0 24 24" fill="currentColor">
+        <path d="M10 4H4a2 2 0 00-2 2v12a2 2 0 002 2h16a2 2 0 002-2V8a2 2 0 00-2-2h-8l-2-2z"/>
+      </svg>
     </div>
     <div class="caption">
-      <strong>Ramakrishna Namer Jowar Elo</strong>
+      <strong>Folder 2</strong>
+    </div>
+  </a>
+
+  <a class="video-tile" href="https://drive.google.com/drive/folders/1BUj72f0sw5aY4DGmIsrW642CLkP4wbSv" target="_blank" rel="noopener">
+    <div class="icon" aria-hidden="true">
+      <svg viewBox="0 0 24 24" fill="currentColor">
+        <path d="M10 4H4a2 2 0 00-2 2v12a2 2 0 002 2h16a2 2 0 002-2V8a2 2 0 00-2-2h-8l-2-2z"/>
+      </svg>
+    </div>
+    <div class="caption">
+      <strong>Folder 3</strong>
     </div>
   </a>
 </section>
+</div>
 
 <!--  DOUBLE LINE DIVIDER -->
 <div class="double-divider"></div>
